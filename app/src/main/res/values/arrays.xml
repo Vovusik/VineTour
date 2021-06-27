@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="themeListArray">
+        <item>Світла</item>
+        <item>Темна</item>
+        <item>Відповідно до режиму енергозбереження</item>
+    </string-array>
+
+    <string-array name="themeEntryArray">
+        <item>light</item>
+        <item>dark</item>
+        <item>default</item>
+    </string-array>
+
+    <!-- Section: Maps Dialog-->
+    <string-array name="region">
+<!--        <item>Усі винарні</item>-->
+        <item>Ужгород</item>
+        <item>Берегово</item>
+    </string-array>
+
+
+
+</resources>

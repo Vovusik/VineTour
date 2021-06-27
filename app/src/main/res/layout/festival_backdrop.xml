@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/btn_gallery_image"
+        style="@style/VideoButtonStyle"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/ic_img_gallery_original"
+        android:text="Фото" />
+
+    <Button
+        android:id="@+id/btn_gallery_video"
+        style="@style/VideoButtonStyle"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/ic_img_video_original"
+        android:text="Відео" />
+
+</LinearLayout>

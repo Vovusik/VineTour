@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.prof.rssparser:rssparser:3.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da726a24b25c56588189068ed68485af/jetified-rssparser-3.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/213ba621b51dabb7e12666f9b6f64895/jetified-rssparser-3.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/213ba621b51dabb7e12666f9b6f64895/jetified-rssparser-3.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/213ba621b51dabb7e12666f9b6f64895/jetified-rssparser-3.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.prof.rssparser/rssparser/3.1.1/b479879b46ef45ce93064b7ba2929fbc6fbb318a/rssparser-3.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.prof.rssparser/rssparser/3.1.1/81d3ed072afe2aaa9524cb8c1cfb29b559bd3a0a/rssparser-3.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/category_title_general">
+
+        <ListPreference
+            app:defaultValue="default"
+            app:entries="@array/themeListArray"
+            app:entryValues="@array/themeEntryArray"
+            app:icon="@drawable/settings_ic_theme"
+            app:key="theme"
+            app:summary="%s"
+            app:title="@string/title_theme"
+            app:useSimpleSummaryProvider="true" />
+
+        <Preference
+            app:icon="@drawable/settings_ic_notification"
+            app:key="notifications"
+            app:summary="Керування сповіщеннями"
+            app:title="Сповіщення" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:title="Зворотній зв’язок">
+
+        <Preference
+            app:icon="@drawable/settings_ic_play_market"
+            app:key="market"
+            app:summary="Додатки в Google Play"
+            app:title="Мої додатки" />
+
+        <Preference
+            app:icon="@drawable/settings_ic_rating"
+            app:key="rate"
+            app:summary="Оцінити в Google Play"
+            app:title="Оцінити" />
+
+        <Preference
+            app:icon="@drawable/settings_ic_share"
+            app:key="share"
+            app:summary="Поширити застосунок"
+            app:title="Поділитись" />
+
+        <Preference
+            app:icon="@drawable/settings_ic_mail"
+            app:key="email"
+            app:summary="Написати листа"
+            app:title="Поінформувати" />
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory app:title="@string/category_title_about">
+
+        <Preference
+            app:key="description"
+            app:icon="@drawable/settings_ic_inform"
+            app:summary="@string/app_short_description"
+            app:title="Опис додатку" />
+
+        <Preference
+            app:key="license"
+            app:icon="@drawable/settings_ic_license"
+            app:summary="@string/summary_licenses"
+            app:title="@string/title_licenses" />
+
+        <Preference
+            app:key="version"
+            app:summary="@string/summary_version"
+            app:title="@string/title_version" />
+
+    </PreferenceCategory>
+
+
+</androidx.preference.PreferenceScreen>

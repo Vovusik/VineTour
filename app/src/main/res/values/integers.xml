@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="search_results_columns">1</integer>
+
+    <integer name="rapid_animation">120</integer>
+    <integer name="activity_slide_duration">400</integer>
+
+    <integer name="gallery_columns">2</integer>
+    <integer name="video_columns">1</integer>
+</resources>

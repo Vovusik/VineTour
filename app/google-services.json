@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114131921488",
+    "firebase_url": "https://wine-tour-275108.firebaseio.com",
+    "project_id": "wine-tour-275108",
+    "storage_bucket": "wine-tour-275108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114131921488:android:238aeca43e35f97a243f55",
+        "android_client_info": {
+          "package_name": "com.andrukhiv.winetour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114131921488-c6lvtno9dg10lumsojibkm5jkeavft0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrukhiv.winetour",
+            "certificate_hash": "0318585a956a36880d20146e5fb478c023d554b7"
+          }
+        },
+        {
+          "client_id": "114131921488-4qsh5jrjpdv05lr7kh533k5i2bpho4g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODKSadvd08sT0SpT_YlVfb78ZH-mCI30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114131921488-4qsh5jrjpdv05lr7kh533k5i2bpho4g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

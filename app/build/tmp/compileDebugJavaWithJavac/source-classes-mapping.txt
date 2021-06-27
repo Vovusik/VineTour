@@ -1,0 +1,181 @@
+com/andrukhiv/winetour/activity/VideoDetailsActivity.java
+ com.andrukhiv.winetour.activity.VideoDetailsActivity
+ com.andrukhiv.winetour.activity.VideoDetailsActivity$1
+ com.andrukhiv.winetour.activity.VideoDetailsActivity$2
+ com.andrukhiv.winetour.activity.VideoDetailsActivity$3
+ com.andrukhiv.winetour.activity.VideoDetailsActivity$RequestYoutubeCommentAPI
+com/andrukhiv/winetour/helper/ParallaxTransformer.java
+ com.andrukhiv.winetour.helper.ParallaxTransformer
+com/andrukhiv/winetour/activity/HomeMainActivity.java
+ com.andrukhiv.winetour.activity.HomeMainActivity
+ com.andrukhiv.winetour.activity.HomeMainActivity$1
+ com.andrukhiv.winetour.activity.HomeMainActivity$2
+ com.andrukhiv.winetour.activity.HomeMainActivity$2$1
+ com.andrukhiv.winetour.activity.HomeMainActivity$RequestYoutubeAPI
+com/andrukhiv/winetour/activity/GalleryMainActivity.java
+ com.andrukhiv.winetour.activity.GalleryMainActivity
+ com.andrukhiv.winetour.activity.GalleryMainActivity$1
+ com.andrukhiv.winetour.activity.GalleryMainActivity$2
+ com.andrukhiv.winetour.activity.GalleryMainActivity$3
+ com.andrukhiv.winetour.activity.GalleryMainActivity$4
+ com.andrukhiv.winetour.activity.GalleryMainActivity$5
+com/andrukhiv/winetour/helper/HomePagerTransformer.java
+ com.andrukhiv.winetour.helper.HomePagerTransformer
+com/andrukhiv/winetour/fragment/MapsFragmentTrans.java
+ com.andrukhiv.winetour.fragment.MapsFragmentTrans
+ com.andrukhiv.winetour.fragment.MapsFragmentTrans$1
+com/andrukhiv/winetour/activity/SplashScreenActivity.java
+ com.andrukhiv.winetour.activity.SplashScreenActivity
+ com.andrukhiv.winetour.activity.SplashScreenActivity$1
+com/andrukhiv/winetour/model/VideoModel.java
+ com.andrukhiv.winetour.model.VideoModel
+ com.andrukhiv.winetour.model.VideoModel$1
+com/andrukhiv/winetour/model/VideoCommentModel.java
+ com.andrukhiv.winetour.model.VideoCommentModel
+ com.andrukhiv.winetour.model.VideoCommentModel$1
+com/andrukhiv/winetour/model/GalleryModel/Photos.java
+ com.andrukhiv.winetour.model.GalleryModel.Photos
+com/andrukhiv/winetour/FestivalNavIconClickListener.java
+ com.andrukhiv.winetour.FestivalNavIconClickListener
+com/andrukhiv/winetour/activity/FestivalMainActivity.java
+ com.andrukhiv.winetour.activity.FestivalMainActivity
+ com.andrukhiv.winetour.activity.FestivalMainActivity$1
+ com.andrukhiv.winetour.activity.FestivalMainActivity$RequestYoutubeAPI
+com/andrukhiv/winetour/adapter/GalleryRecyclerAdapter.java
+ com.andrukhiv.winetour.adapter.GalleryRecyclerAdapter
+ com.andrukhiv.winetour.adapter.GalleryRecyclerAdapter$1
+ com.andrukhiv.winetour.adapter.GalleryRecyclerAdapter$ImageViewHolder
+com/andrukhiv/winetour/adapter/HomeRecyclerAdapter.java
+ com.andrukhiv.winetour.adapter.HomeRecyclerAdapter
+ com.andrukhiv.winetour.adapter.HomeRecyclerAdapter$1
+ com.andrukhiv.winetour.adapter.HomeRecyclerAdapter$YoutubePostHolder
+com/andrukhiv/winetour/adapter/FestivalMainAdapter.java
+ com.andrukhiv.winetour.adapter.FestivalMainAdapter
+ com.andrukhiv.winetour.adapter.FestivalMainAdapter$1
+ com.andrukhiv.winetour.adapter.FestivalMainAdapter$YoutubePostHolder
+com/andrukhiv/winetour/activity/VideoPlayListActivity.java
+ com.andrukhiv.winetour.activity.VideoPlayListActivity
+ com.andrukhiv.winetour.activity.VideoPlayListActivity$1
+ com.andrukhiv.winetour.activity.VideoPlayListActivity$RequestYoutubeAPI
+com/andrukhiv/winetour/fragment/MapBottomSheetDialogFragmentOdesa.java
+ com.andrukhiv.winetour.fragment.MapBottomSheetDialogFragmentOdesa
+com/andrukhiv/winetour/adapter/MapsAdapterOdesa.java
+ com.andrukhiv.winetour.adapter.MapsAdapterOdesa
+com/andrukhiv/winetour/adapter/WineCardPagerAdapter.java
+ com.andrukhiv.winetour.adapter.WineCardPagerAdapter
+com/andrukhiv/winetour/activity/WineCardDetailsActivity.java
+ com.andrukhiv.winetour.activity.WineCardDetailsActivity
+ com.andrukhiv.winetour.activity.WineCardDetailsActivity$1
+com/andrukhiv/winetour/activity/FestivalPlayListActivity.java
+ com.andrukhiv.winetour.activity.FestivalPlayListActivity
+ com.andrukhiv.winetour.activity.FestivalPlayListActivity$1
+ com.andrukhiv.winetour.activity.FestivalPlayListActivity$RequestYoutubeAPI
+com/andrukhiv/winetour/constant/Constants.java
+ com.andrukhiv.winetour.constant.Constants
+com/andrukhiv/winetour/service/NotificationMessagingService.java
+ com.andrukhiv.winetour.service.NotificationMessagingService
+com/andrukhiv/winetour/activity/MapsActivity.java
+ com.andrukhiv.winetour.activity.MapsActivity
+ com.andrukhiv.winetour.activity.MapsActivity$1
+ com.andrukhiv.winetour.activity.MapsActivity$1$1
+ com.andrukhiv.winetour.activity.MapsActivity$1$2
+ com.andrukhiv.winetour.activity.MapsActivity$2
+ com.andrukhiv.winetour.activity.MapsActivity$3
+com/andrukhiv/winetour/fragment/SettingsFragmentBottomSheetDialog.java
+ com.andrukhiv.winetour.fragment.SettingsFragmentBottomSheetDialog
+ com.andrukhiv.winetour.fragment.SettingsFragmentBottomSheetDialog$1
+com/andrukhiv/winetour/fragment/SettingsFragment.java
+ com.andrukhiv.winetour.fragment.SettingsFragment
+com/andrukhiv/winetour/model/NewsModel.java
+ com.andrukhiv.winetour.model.NewsModel
+ com.andrukhiv.winetour.model.NewsModel$1
+com/andrukhiv/winetour/adapter/HomePagerAdapter.java
+ com.andrukhiv.winetour.adapter.HomePagerAdapter
+ com.andrukhiv.winetour.adapter.HomePagerAdapter$1
+com/andrukhiv/winetour/activity/SettingsActivity.java
+ com.andrukhiv.winetour.activity.SettingsActivity
+com/andrukhiv/winetour/model/MapsModel.java
+ com.andrukhiv.winetour.model.MapsModel
+com/andrukhiv/winetour/adapter/MapsAdapterTrans.java
+ com.andrukhiv.winetour.adapter.MapsAdapterTrans
+com/andrukhiv/winetour/activity/NewsActivity.java
+ com.andrukhiv.winetour.activity.NewsActivity
+ com.andrukhiv.winetour.activity.NewsActivity$1
+com/andrukhiv/winetour/activity/FestivalDetailsActivity.java
+ com.andrukhiv.winetour.activity.FestivalDetailsActivity
+ com.andrukhiv.winetour.activity.FestivalDetailsActivity$1
+ com.andrukhiv.winetour.activity.FestivalDetailsActivity$2
+ com.andrukhiv.winetour.activity.FestivalDetailsActivity$RequestYoutubeCommentAPI
+com/andrukhiv/winetour/service/GalleryApi.java
+ com.andrukhiv.winetour.service.GalleryApi
+com/andrukhiv/winetour/adapter/NewsAdapter.java
+ com.andrukhiv.winetour.adapter.NewsAdapter
+ com.andrukhiv.winetour.adapter.NewsAdapter$1
+ com.andrukhiv.winetour.adapter.NewsAdapter$ViewHolder
+com/andrukhiv/winetour/helper/ZoomImageView.java
+ com.andrukhiv.winetour.helper.ZoomImageView
+ com.andrukhiv.winetour.helper.ZoomImageView$1
+ com.andrukhiv.winetour.helper.ZoomImageView$ScaleListener
+com/andrukhiv/winetour/adapter/GallerySearchAdapter.java
+ com.andrukhiv.winetour.adapter.GallerySearchAdapter
+ com.andrukhiv.winetour.adapter.GallerySearchAdapter$1
+ com.andrukhiv.winetour.adapter.GallerySearchAdapter$ImageViewHolder
+com/andrukhiv/winetour/model/GalleryModel/FlickrPhoto.java
+ com.andrukhiv.winetour.model.GalleryModel.FlickrPhoto
+com/andrukhiv/winetour/helper/GalleryPageTransformer.java
+ com.andrukhiv.winetour.helper.GalleryPageTransformer
+com/andrukhiv/winetour/model/GalleryModel/Photo.java
+ com.andrukhiv.winetour.model.GalleryModel.Photo
+com/andrukhiv/winetour/helper/MapsUtils.java
+ com.andrukhiv.winetour.helper.MapsUtils
+com/andrukhiv/winetour/fragment/MapBottomSheetDialogFragment.java
+ com.andrukhiv.winetour.fragment.MapBottomSheetDialogFragment
+ com.andrukhiv.winetour.fragment.MapBottomSheetDialogFragment$1
+ com.andrukhiv.winetour.fragment.MapBottomSheetDialogFragment$2
+com/andrukhiv/winetour/adapter/WineCardRecyclerAdapter.java
+ com.andrukhiv.winetour.adapter.WineCardRecyclerAdapter
+ com.andrukhiv.winetour.adapter.WineCardRecyclerAdapter$1
+ com.andrukhiv.winetour.adapter.WineCardRecyclerAdapter$RecyclerViewViewHolder
+com/andrukhiv/winetour/activity/GalleryDetailPagerActivity.java
+ com.andrukhiv.winetour.activity.GalleryDetailPagerActivity
+ com.andrukhiv.winetour.activity.GalleryDetailPagerActivity$1
+ com.andrukhiv.winetour.activity.GalleryDetailPagerActivity$1$1
+ com.andrukhiv.winetour.activity.GalleryDetailPagerActivity$2
+com/andrukhiv/winetour/activity/WineCardActivity.java
+ com.andrukhiv.winetour.activity.WineCardActivity
+com/andrukhiv/winetour/service/GalleryService.java
+ com.andrukhiv.winetour.service.GalleryService
+com/andrukhiv/winetour/activity/MapVirtualImage.java
+ com.andrukhiv.winetour.activity.MapVirtualImage
+ com.andrukhiv.winetour.activity.MapVirtualImage$1
+ com.andrukhiv.winetour.activity.MapVirtualImage$ActivityEventListener
+com/andrukhiv/winetour/adapter/VideoCommentAdapter.java
+ com.andrukhiv.winetour.adapter.VideoCommentAdapter
+ com.andrukhiv.winetour.adapter.VideoCommentAdapter$YoutubeCommentHolder
+com/andrukhiv/winetour/helper/ThemeHelper.java
+ com.andrukhiv.winetour.helper.ThemeHelper
+com/andrukhiv/winetour/helper/VideoAnimationUtil.java
+ com.andrukhiv.winetour.helper.VideoAnimationUtil
+com/andrukhiv/winetour/adapter/GalleryPagerAdapter.java
+ com.andrukhiv.winetour.adapter.GalleryPagerAdapter
+com/andrukhiv/winetour/BuildConfig.java
+ com.andrukhiv.winetour.BuildConfig
+com/andrukhiv/winetour/model/WineCardModel.java
+ com.andrukhiv.winetour.model.WineCardModel
+com/andrukhiv/winetour/fragment/WineCardDescriptionFragment.java
+ com.andrukhiv.winetour.fragment.WineCardDescriptionFragment
+com/andrukhiv/winetour/activity/BaseActivity.java
+ com.andrukhiv.winetour.activity.BaseActivity
+com/andrukhiv/winetour/adapter/VideoMainAdapter.java
+ com.andrukhiv.winetour.adapter.VideoMainAdapter
+ com.andrukhiv.winetour.adapter.VideoMainAdapter$1
+ com.andrukhiv.winetour.adapter.VideoMainAdapter$YoutubePostHolder
+com/andrukhiv/winetour/app/AppController.java
+ com.andrukhiv.winetour.app.AppController
+com/andrukhiv/winetour/helper/SquareLayout.java
+ com.andrukhiv.winetour.helper.SquareLayout
+com/andrukhiv/winetour/activity/GalleryDetailSearchActivity.java
+ com.andrukhiv.winetour.activity.GalleryDetailSearchActivity
+ com.andrukhiv.winetour.activity.GalleryDetailSearchActivity$1
+com/andrukhiv/winetour/fragment/MapsFragmentOdesa.java
+ com.andrukhiv.winetour.fragment.MapsFragmentOdesa

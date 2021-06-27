@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#37474f</color>
+    <color name="colorPrimary">#455a63</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorApp">#b31ac7</color>
+    <color name="colorError">@android:color/holo_red_dark</color>
+
+    <color name="windowBackground">#FFE2E2E2</color>
+    <color name="rowBackground">#F2F2F2</color>
+
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#727272</color>
+
+    <!--Колір прозорості заднього фону в DetailActivity при застосуванні ElasticDragDismissLayout -  -->
+    <color name="scrim_detail_activity">#66323232</color>
+    <!--Колір прозорості заднього фону ToolbarMaps-->
+    <color name="scrim_maps_fragment">#1e000000</color>
+    <!--Колір стрілочки у заголовку SortableActivity-->
+    <color name="colorPastColor">@android:color/darker_gray</color>
+
+    <!--Колір затемнення картинки скролінгу в розділі "Кухня"-->
+    <color name="grayIconTint">#727272</color>
+
+
+    <color name="iconNavigationColor">#BCBCBC</color>
+
+
+    <!--Кольори іконки додатку-->
+    <color name="icon_bottle">#2A4E21</color>
+    <color name="icon_grapes">#601A38</color>
+
+    <color name="error">#CD151C</color>
+
+
+    <color name="defaultCenterColor">#FF00D6D6</color>
+    <color name="defaultEndColor">#FF00D6D6</color>
+    <color name="defaultStartColor">#FF455a63</color>
+    <color name="highlightedCenterColor">#00B5A4</color>
+    <color name="highlightedEndColor">@color/colorAccent</color>
+    <color name="highlightedStartColor">#00FCE6</color>
+
+</resources>
+

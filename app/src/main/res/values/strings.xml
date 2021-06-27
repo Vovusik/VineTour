@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Винний шлях</string>
+
+
+    <string name="title_home">Історія</string>
+<!--    <string name="title_dashboard">Dashboard</string>-->
+<!--    <string name="title_notifications">Notifications</string>-->
+<!--    <string name="title_music">Music</string>-->
+    <string name="action_search">Search</string>
+    <string name="action_settings">Налаштування</string>
+
+
+
+
+    <!-- Section: Permissions-->
+    <string name="hasPermissions">Дозвіл успішно надано</string>
+    <string name="rationale_call">Дозвіл на виклик відхилено</string>
+    <string name="rationale_location">Цей додаток потребує доступу до вашого місцезнаходженнявашему, щоб узнати, де ви.</string>
+    <string name="returned_from_app_settings_to_activity">
+        Повернення з налаштувань додатку в MainActivity з наступними дозволами:
+        \n\nPhone: %s
+        \nLocation: %s
+    </string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+
+
+
+
+    <string name="fullscreen_tutorial">В останні роки, в Європі стає дедалі популярнішим домашнє вино (wine house). Справжні поціновувачі цього напою не хочуть купувати його в супермаркетах, де засилля різнобарвних етикеток може збити з толку навіть досвідченого сомельє. Вино купують в місцях його виготовлення, як правило у винороба якого знають і в котрого можна «спитати» за якість.\n\n«Закарпатський туристичний винний шлях» об’єднав десятки винних підвалів та дегустаційних залів кращих виноробів, де приймають відвідувачів з метою популяризації закарпатських вин. У кожному з них вам запропонують від 6 до 12 найменувань «божественного напою», серед яких відомі марочні вина (до прикладу, «Троянда Закарпаття», «Середнянське») та нові, нещодавно створені знавцями виноробства.
+        \n\nНі для кого не секрет, що на Закарпатті домашнє виноробство є давнім і традиційним. Вже з десяток років, в різних закарпатських містах проводяться різноманітні фестивалі домашніх вин, на яких мають змогу всі бажаючі приватні винороби представити свою продукцію. З року в рік попит на домашнє вино зростає, а тому створення «Закарпатського туристичного винного шляху» було лише питанням часу.
+        \n\nМетою створення цього туру є показати всю красу та розмаїття Закарпаття, адже наш край знаходиться на кордоні чотирьох європейських країн. Близькість кордонів наклала свій відбиток на кожен район, кожне село є неповторним.\n\nЩоб скласти враження про вина Закарпаття, мало побувати на фестивалі вина. Мало побувати навіть на кількох таких фестивалях. Знайомство з винами потребує дотримання ритуалу, неспішності й відданості процесу. Як і з людиною, з вином треба спілкуватись, лише тоді воно вдячно розкриває свій неповторний букет і, як стверджують винороби, дозволяє осягнути багатство гармонії.</string>
+
+
+<!--    <string name="vine_tour">Винний шлях</string>-->
+
+    <!--Section: Settings-->
+    <string name="category_title_general">Налаштування</string>
+    <string name="category_title_about">Про додаток</string>
+    <string name="category_title_notifications">Налаштування сповіщень</string>
+
+    <string name="title_theme">Вибрати тему</string>
+    <string name="title_licenses">Ліцензії відкритого коду</string>
+    <string name="title_version">Версія</string>
+
+
+    <string name="app_description">
+        Відродження туристичної галузі в Україні розпочинається з внутрішнього туризму.\n\nЦей проект створений з метою розвитку і популяризації енотуризму (винного туризму) в Закарпатті.\n\nВинний шлях – це додаток-путівник для поціновувачів вина і всіх, хто хоче отримати справжнє чуттєве задоволення від дегустації напою.\n\nВ рамках цього проекту ми ознайомлюємо користувача з традиційними для Закарпаття винними фестивалями та урочистими подіями.\n\nОдин з розділів онлайн-путівника розповість про місцевих виноробів дегустаційні зали, винні підвали, де ви отримаєте можливість скуштувати та придбати домашнього вина.    </string>
+    <string name="app_short_description">Відродження туристичної галузі в Україні розпочинається з внутрішнього туризму. Цей проект створений з метою розвитку і популяризації енотуризму …
+    </string>
+
+    <string name="summary_description">Lorem ipsum dolor sit amet,/ Porttitor ligula vitae ultrices eleifend, felis suscipit iaculis turpis, pellentesque magna s
+    </string>
+    <string name="summary_licenses">Деталі ліцензії з відкритим кодом</string>
+    <string name="summary_version">1.0</string>
+    <string name="summary_vibrate">Вібрація при отриманні сповіщень</string>
+    <string name="button_licenses">Закрити</string>
+    <string name="pref_ringtone_silent">Без звуку</string>
+
+    <string name="copy_right">Copyrights © %1$d</string>
+
+    <string name="message_subject">Стосовно додатку GRAPES.</string>
+    <string name="message_text">Привіт,</string>
+
+
+    <!--Section: Notification-->
+    <string name="default_notification_channel_id">Message</string>
+    <string name="default_notification_channel_name">Календар фестивалів</string>
+
+    <!--Section: RateApp-->
+    <string name="new_rate_dialog_title">Rate Me!</string>
+    <string name="new_rate_dialog_never">Never</string>
+    <string name="new_rate_dialog_later">Later</string>
+    <string name="new_rate_dialog_ok">Rate</string>
+
+    <!--Section: Network-->
+<!--    <string name="alertMobileDataTitle">Використовуєте мобільні дані при використанні додатку?</string>-->
+<!--    <string name="alertMobileDataNegativeButton">Всерівно продовжити</string>-->
+<!--    <string name="alertMobileDataPositiveButton">Увімкнути Wifi</string>-->
+<!--    <string name="alertMobileDataCheckBox">Не показувати знову</string>-->
+
+<!--    <string name="alertNoInternetTitle">Помилка</string>-->
+<!--    <string name="alertNoInternetMessage">На вашому телефоні відсутнє підключення до інтернету</string>-->
+<!--    <string name="alertNoInternetPositiveButton">Перезавантажити</string>-->
+<!--    <string name="alertNoInternetNegativeButton">Відмінити</string>-->
+<!--    <string name="alertNoInternetNeutralButton">Увімкнути Wifi</string>-->
+
+<!--    <string name="alertFailedWifiTitle">Помилка з’єднання</string>-->
+<!--    <string name="alertFailedWifiPositiveButton">Перезавантажити</string>-->
+<!--    <string name="alertFailedWifiNegativeButton">Відкрити Wifi Налаштування</string>-->
+<!--    <string name="progressDialogTitle">Зачекайте будь ласка</string>-->
+<!--    <string name="progressDialogMessage">З’єднання …</string>-->
+
+
+    <!-- Section: Gallery-->
+    <string name="action_search_festivals">Пошук фестивалю …</string>
+
+    <string name="toast_error">Помилка</string>
+    <string name="toast_failure">Відмова</string>
+
+
+    <!-- Section: Expandable-->
+    <string name="expand">Розгорнути</string>
+    <string name="collapse">Згорнути</string>
+
+
+    <string name="tab_description">Опис підвалу</string>
+    <string name="tab_wine_card">Винна карта</string>
+
+
+<!--    Для відродження туристичної галузі в Україні та популяризації енотуризму
+        (винного туризму) в Закарпатті мною було розроблено мобільний додаток "Винний шлях"
+        (на платформі android).-->
+
+<!--    Подальше використання цього додатку потребує наповнення його якісним
+        контентом (фото, 3D фото, відео, опис, тощо). Нажаль, навіть у теперішній
+        час сучасних технологій, отримати достовірну і повну інформаю не маю можливості.-->
+
+<!--    Тому звертаюся до вас з проханням сприяти у інформаційній підтримці.-->
+
+<!--    Посилання на додаток у Play Market-->
+<!--    https://play.google.com/store/apps/details?id=com.andrukhiv.winetour-->
+
+<!--    Сподіваюся на підтримку та співпрацю.-->
+
+    <!-- Section: NEWS-->
+    <string name="alert_title">Увага!</string>
+    <string name="alert_message">Не вдалося завантажити дані.\nПеревірте ваше з’єднання!</string>
+    <string name="alert_positive">Закрити</string>
+
+    <!-- Section: RATE_APP-->
+    <string name="rate_app_title">Оцінити додаток</string>
+    <string name="rate_app_message">Якщо вам подобається додаток, будь-ласка,
+        придіділіть трохи часу, щоб оцінити його в PlayStore. Дякую за підтримку!</string>
+    <string name="rate_btn_pos">Оцинити зараз</string>
+    <string name="rate_btn_neg">Нагадати пізніше</string>
+    <string name="rate_btn_nut">Ні, дякую</string>
+
+
+
+</resources>

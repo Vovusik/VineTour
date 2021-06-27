@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/navigation_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/navigation_cellar"
+        android:title="Винарня" />
+
+    <item
+        android:id="@+id/navigation_festival"
+        android:icon="@drawable/navigation_festival"
+        android:title="Фестиваль" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/navigation_blogger"
+        android:title="Блог" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_shop"-->
+<!--        android:icon="@drawable/navigation_shop"-->
+<!--        android:visible="false"-->
+<!--        android:title="Магазин" />-->
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/navigation_settings"
+        android:title="Інше" />
+
+
+</menu>
