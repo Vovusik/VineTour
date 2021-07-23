@@ -12,9 +12,9 @@
 
 ## Презентація
 
-<img src="https://github.com/Vovusik/WineTour/blob/master/app/src/main/res/assets/history.gif" height="500" >
-
 ### Розділ <strong>Історія</strong>
+
+<img src="https://github.com/Vovusik/WineTour/blob/master/app/src/main/res/assets/history.gif" height="500" >
 
 ### Розділ <strong>Винарня</strong>
 
