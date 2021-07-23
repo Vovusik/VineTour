@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.vr:sdk-commonwidget:1.180.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21c6bce55597733dd245dd00fabd264e/jetified-sdk-commonwidget-1.180.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21c6bce55597733dd245dd00fabd264e/jetified-sdk-commonwidget-1.180.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21c6bce55597733dd245dd00fabd264e/jetified-sdk-commonwidget-1.180.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8621eceeb80ff497453519b81ab59c9/jetified-sdk-commonwidget-1.180.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8621eceeb80ff497453519b81ab59c9/jetified-sdk-commonwidget-1.180.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8621eceeb80ff497453519b81ab59c9/jetified-sdk-commonwidget-1.180.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\VineTour Activity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-land-v4\\values-large-land-v4.xml",
+            "outputFile": "D:\\Users\\User\\AndroidStudioProjects\\VineTour\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-land-v4\\values-large-land-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\AndroidStudioProjects\\VineTour Activity\\app\\src\\main\\res\\values-large-land\\integers.xml",
+                    "source": "D:\\Users\\User\\AndroidStudioProjects\\VineTour\\app\\src\\main\\res\\values-large-land\\integers.xml",
                     "from": {
                         "startLines": "4,2,5",
                         "startColumns": "4,4,4",

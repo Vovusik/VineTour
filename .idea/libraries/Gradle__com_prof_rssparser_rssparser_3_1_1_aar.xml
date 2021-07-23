@@ -3,8 +3,10 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da726a24b25c56588189068ed68485af/jetified-rssparser-3.1.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/213ba621b51dabb7e12666f9b6f64895/jetified-rssparser-3.1.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/213ba621b51dabb7e12666f9b6f64895/jetified-rssparser-3.1.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/213ba621b51dabb7e12666f9b6f64895/jetified-rssparser-3.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b76bbebbc498eab5a3571c5ac70bd11f/jetified-rssparser-3.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33f488b8ce8bba1b5d4509dffab5e640/jetified-rssparser-3.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33f488b8ce8bba1b5d4509dffab5e640/jetified-rssparser-3.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33f488b8ce8bba1b5d4509dffab5e640/jetified-rssparser-3.1.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.prof.rssparser/rssparser/3.1.1/b479879b46ef45ce93064b7ba2929fbc6fbb318a/rssparser-3.1.1-javadoc.jar!/" />

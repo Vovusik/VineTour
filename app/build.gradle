@@ -43,8 +43,8 @@ dependencies {
     })
     testImplementation 'junit:junit:4.13.2'
 
-    implementation 'androidx.appcompat:appcompat:1.3.0'
-    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
     // Бібліотека для підвантаження фото
@@ -76,7 +76,7 @@ dependencies {
     // Бібліотеки для використання у додатку сповіщень FirebaseNotifications
     implementation 'com.google.firebase:firebase-core'
     implementation 'com.google.firebase:firebase-messaging'
-    implementation 'com.google.android.gms:play-services-auth:19.0.0'
+    implementation 'com.google.android.gms:play-services-auth:19.2.0'
     // Бібліотеки для використання у додатку бази даних Firebase
     implementation 'com.google.firebase:firebase-database'
 
@@ -101,6 +101,9 @@ dependencies {
     // Застосовано для RSS
     implementation 'com.prof.rssparser:rssparser:3.1.1'
 
+
+
+    // Діалогове вікно для використання новішої версії додатку
     implementation 'com.google.android.play:core:1.10.0'
 
 }

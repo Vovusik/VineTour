@@ -1,179 +1,179 @@
-0:46 androidx.localbroadcastmanager:localbroadcastmanager
-48:46 com.github.bumptech.glide:gifdecoder Simplified BSD License
-96:46 com.github.bumptech.glide:gifdecoder The Apache Software License, Version 2.0
-144:46 androidx.core:core
-192:46 com.google.firebase:firebase-database-collection
-240:47 com.google.android.gms:play-services-basement
-289:10695 AndroidX document file library.
-10986:10695 AndroidX print library.
-21683:10695 AndroidX versioned parcelable library.
-32380:1846 Checker Framework Annotations
-34228:11342 FlatBuffers
-45572:11358 JSR 250
-56932:1602 JSR 305
-58536:11358 safeparcel
-69896:47 com.google.android.gms:play-services-measurement-sdk-api
-69945:10694 AndroidX lifecycle common library
-80641:10694 AndroidX lifecycle livedatacore library
-91337:10694 AndroidX lifecycle runtime library
-102033:1096 Animal Sniffer
-103131:11357 Error Prone
-114490:11358 Guava JDK5
-125850:11362 Guava JDK7
-137214:11358 J2ObjC
-148574:11307 JsInterop Annotations
-159883:11358 SafeParcelable library
-171243:46 androidx.lifecycle:lifecycle-runtime
-171291:47 com.google.firebase:firebase-messaging
-171340:16013 Android SDK
-187355:10695 AndroidX activity library
-198052:10695 AndroidX annotation library
-208749:10694 AndroidX architecture core library
-219445:10694 AndroidX architecture library
-230141:10695 AndroidX asynclayoutinflater library
-240838:10693 AndroidX collection library
-251533:10695 AndroidX concurrent futures library
-262230:10693 AndroidX coordinatorlayout library
-272925:10695 AndroidX core library
-283622:10695 AndroidX cursoradapter library
-294319:10693 AndroidX customview library
-305014:10695 AndroidX documentfile library
-315711:10695 AndroidX drawerlayout library
-326408:10695 AndroidX fragment library
-337105:10693 AndroidX interpolator library
-347800:10695 AndroidX legacy coreui library
-358497:10691 AndroidX legacy coreutils library
-369190:10695 AndroidX legacy v4 library
-379887:10694 AndroidX lifecycle viewmodel library
-390583:10694 AndroidX lifecycle viewmodel savedstate library
-401279:10693 AndroidX loader library
-411974:10693 AndroidX localbroadcastmanager library
-422669:10691 AndroidX media base library
-433362:10695 AndroidX print library
-444059:10695 AndroidX savedstate library
-454756:10695 AndroidX slidingpanelayout library
-465453:10695 AndroidX swiperefreshlayout library
-476150:10695 AndroidX versionedparcelable library
-486847:10695 AndroidX viewpager library
-497544:11358 Dagger
-508904:11357 Firebase
-520263:11358 Google Auto
-531623:11365 JSR 330
-542990:46 androidx.lifecycle:lifecycle-viewmodel
-543038:47 com.google.android.gms:play-services-ads-identifier
-543087:11342 flatbuffers
-554431:11365 absl
-565798:1732 Protobuf Nano
-567532:46 androidx.arch.core:core-common
-567580:46 androidx.versionedparcelable:versionedparcelable
-567628:46 com.google.firebase:firebase-config
-567676:47 com.google.android.gms:play-services-auth
-567725:46 androidx.media:media
-567773:47 com.google.android.gms:play-services-cloud-messaging
-567822:46 androidx.documentfile:documentfile
-567870:46 com.google.firebase:firebase-installations-interop
-567918:47 com.google.firebase:firebase-core
-567967:46 androidx.browser:browser
-568015:47 com.google.android.gms:play-services-measurement-api
-568064:46 com.google.android.datatransport:transport-api
-568112:46 androidx.vectordrawable:vectordrawable-animated
-568160:52 com.google.android.play:core
-568214:46 com.prof.rssparser:rssparser
-568262:47 com.google.android.gms:play-services-tasks
-568311:46 jp.wasabeef:glide-transformations
-568359:46 androidx.lifecycle:lifecycle-common
-568407:47 com.google.android.gms:play-services-stats
-568456:21000 ICU4C
-589458:680 STL
-590140:731 UTF
-590873:46 androidx.savedstate:savedstate
-590921:46 androidx.coordinatorlayout:coordinatorlayout
-590969:46 com.github.bumptech.glide:glide Simplified BSD License
-591017:46 com.github.bumptech.glide:glide The Apache Software License, Version 2.0
-591065:46 com.github.bumptech.glide:disklrucache Simplified BSD License
-591113:46 com.github.bumptech.glide:disklrucache The Apache Software License, Version 2.0
-591161:46 androidx.drawerlayout:drawerlayout
-591209:46 androidx.vectordrawable:vectordrawable
-591257:46 androidx.loader:loader
-591305:46 androidx.cursoradapter:cursoradapter
-591353:46 androidx.legacy:legacy-support-core-utils
-591401:47 com.google.firebase:firebase-iid-interop
-591450:47 com.google.android.gms:play-services-measurement-sdk
-591499:46 androidx.collection:collection
-591547:46 javax.inject:javax.inject
-591595:46 androidx.cardview:cardview
-591643:47 com.google.android.gms:play-services-measurement-impl
-591692:46 com.google.firebase:firebase-installations
-591740:46 androidx.print:print
-591788:46 androidx.arch.core:core-runtime
-591836:46 com.squareup.retrofit2:converter-gson
-591884:50 com.google.protobuf.nano:protobuf-javanano
-591936:46 androidx.interpolator:interpolator
-591984:46 androidx.constraintlayout:constraintlayout-solver
-592032:46 com.github.nitrico.mapviewpager:mapviewpager
-592080:46 androidx.slidingpanelayout:slidingpanelayout
-592128:46 androidx.legacy:legacy-support-v4
-592176:47 com.google.android.gms:play-services-oss-licenses
-592225:46 com.google.android.material:material
-592273:46 androidx.lifecycle:lifecycle-livedata-core
-592321:46 androidx.viewpager2:viewpager2
-592369:46 androidx.fragment:fragment
-592417:47 com.google.firebase:firebase-analytics
-592466:46 androidx.transition:transition
-592514:42 org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client
-592558:46 androidx.appcompat:appcompat
-592606:46 androidx.activity:activity
-592654:47 com.google.firebase:firebase-iid
-592703:46 androidx.constraintlayout:constraintlayout
-592751:47 com.google.android.gms:play-services-auth-api-phone
-592800:2500 zlib
-595302:1558 RE2
-596862:3182 PCRE
-600046:1481 darts_clone
-601529:47 com.google.android.gms:play-services-maps
-601578:11358 JSpecify
-612938:10695 apksig
-623635:46 com.github.bumptech.glide:annotations Simplified BSD License
-623683:46 com.github.bumptech.glide:annotations The Apache Software License, Version 2.0
-623731:46 androidx.exifinterface:exifinterface
-623779:46 androidx.dynamicanimation:dynamicanimation
-623827:46 pub.devrel:easypermissions
-623875:46 at.blogc:expandabletextview
-623923:46 androidx.lifecycle:lifecycle-livedata
-623971:47 com.google.android.gms:play-services-auth-base
-624020:46 androidx.swiperefreshlayout:swiperefreshlayout
-624068:46 androidx.viewpager:viewpager
-624116:46 com.google.firebase:firebase-abt
-624164:46 com.google.firebase:firebase-encoders-json
-624212:46 androidx.preference:preference
-624260:47 com.google.android.gms:play-services-base
-624309:46 com.squareup.retrofit2:retrofit
-624357:47 com.google.android.gms:play-services-measurement-base
-624406:46 androidx.lifecycle:lifecycle-viewmodel-savedstate
-624454:46 com.google.firebase:firebase-datatransport
-624502:46 com.google.firebase:firebase-components
-624550:46 androidx.customview:customview
-624598:46 androidx.recyclerview:recyclerview
-624646:46 com.google.android.datatransport:transport-runtime
-624694:46 androidx.annotation:annotation
-624742:46 me.relex:circleindicator
-624790:47 com.google.dagger:dagger
-624839:47 com.google.android.gms:play-services-measurement
-624888:46 com.google.firebase:firebase-database
-624936:47 com.google.firebase:firebase-auth-interop
-624985:10695 AndroidX async layout inflater.
-635682:10693 AndroidX interpolator library.
-646377:10695 AndroidX legacy core UI libraries.
-657074:10693 AndroidX local broadcast manager library.
-667769:10695 AndroidX sliding pane layout library.
-678466:10695 AndroidX swipe refresh layout library.
-689163:57295 Firebase Common
-746460:10695 activity
-757157:10695 concurrent_futures
-767854:10695 savedstate
-778551:46 com.google.android.datatransport:transport-backend-cct
-778599:46 androidx.annotation:annotation-experimental
-778647:46 androidx.appcompat:appcompat-resources
+0:46 androidx.activity:activity
+48:47 com.google.android.gms:play-services-basement
+97:10694 AndroidX lifecycle common library
+10793:10694 AndroidX lifecycle livedatacore library
+21489:10694 AndroidX lifecycle runtime library
+32185:1096 Animal Sniffer
+33283:1846 Checker Framework Annotations
+35131:11357 Error Prone
+46490:11358 Guava JDK5
+57850:11362 Guava JDK7
+69214:11358 J2ObjC
+80574:1602 JSR 305
+82178:11307 JsInterop Annotations
+93487:11358 SafeParcelable library
+104847:10695 apksig
+115544:46 androidx.localbroadcastmanager:localbroadcastmanager
+115592:46 com.github.bumptech.glide:gifdecoder Simplified BSD License
+115640:46 com.github.bumptech.glide:gifdecoder The Apache Software License, Version 2.0
+115688:46 androidx.core:core
+115736:46 com.google.firebase:firebase-database-collection
+115784:47 com.google.android.gms:play-services-measurement-sdk-api
+115833:46 androidx.lifecycle:lifecycle-runtime
+115881:47 com.google.firebase:firebase-messaging
+115930:16013 Android SDK
+131945:10695 AndroidX activity library
+142642:10695 AndroidX annotation library
+153339:10694 AndroidX architecture core library
+164035:10694 AndroidX architecture library
+174731:10695 AndroidX asynclayoutinflater library
+185428:10693 AndroidX collection library
+196123:10695 AndroidX concurrent futures library
+206820:10693 AndroidX coordinatorlayout library
+217515:10695 AndroidX core library
+228212:10695 AndroidX cursoradapter library
+238909:10693 AndroidX customview library
+249604:10695 AndroidX documentfile library
+260301:10695 AndroidX drawerlayout library
+270998:10695 AndroidX fragment library
+281695:10693 AndroidX interpolator library
+292390:10695 AndroidX legacy coreui library
+303087:10691 AndroidX legacy coreutils library
+313780:10695 AndroidX legacy v4 library
+324477:10694 AndroidX lifecycle viewmodel library
+335173:10694 AndroidX lifecycle viewmodel savedstate library
+345869:10693 AndroidX loader library
+356564:10693 AndroidX localbroadcastmanager library
+367259:10691 AndroidX media base library
+377952:10695 AndroidX print library
+388649:10695 AndroidX savedstate library
+399346:10695 AndroidX slidingpanelayout library
+410043:10695 AndroidX swiperefreshlayout library
+420740:10695 AndroidX versionedparcelable library
+431437:10695 AndroidX viewpager library
+442134:11358 Dagger
+453494:11357 Firebase
+464853:11358 Google Auto
+476213:11358 JSR 250
+487573:11365 JSR 330
+498940:46 androidx.lifecycle:lifecycle-viewmodel
+498988:47 com.google.android.gms:play-services-ads-identifier
+499037:11342 flatbuffers
+510381:11358 safeparcel
+521741:11365 absl
+533108:1732 Protobuf Nano
+534842:46 androidx.arch.core:core-common
+534890:46 androidx.versionedparcelable:versionedparcelable
+534938:46 androidx.appcompat:appcompat-resources
+534986:46 com.google.firebase:firebase-config
+535034:46 androidx.media:media
+535082:47 com.google.android.gms:play-services-cloud-messaging
+535131:46 androidx.documentfile:documentfile
+535179:46 com.google.firebase:firebase-installations-interop
+535227:47 com.google.firebase:firebase-core
+535276:46 androidx.browser:browser
+535324:47 com.google.android.gms:play-services-measurement-api
+535373:46 com.google.android.datatransport:transport-api
+535421:46 androidx.vectordrawable:vectordrawable-animated
+535469:52 com.google.android.play:core
+535523:46 com.prof.rssparser:rssparser
+535571:47 com.google.android.gms:play-services-base
+535620:46 jp.wasabeef:glide-transformations
+535668:46 androidx.lifecycle:lifecycle-common
+535716:47 com.google.android.gms:play-services-stats
+535765:21000 ICU4C
+556767:680 STL
+557449:731 UTF
+558182:46 androidx.savedstate:savedstate
+558230:46 androidx.coordinatorlayout:coordinatorlayout
+558278:46 com.github.bumptech.glide:glide Simplified BSD License
+558326:46 com.github.bumptech.glide:glide The Apache Software License, Version 2.0
+558374:46 com.github.bumptech.glide:disklrucache Simplified BSD License
+558422:46 com.github.bumptech.glide:disklrucache The Apache Software License, Version 2.0
+558470:46 androidx.drawerlayout:drawerlayout
+558518:46 androidx.vectordrawable:vectordrawable
+558566:46 androidx.loader:loader
+558614:46 androidx.cursoradapter:cursoradapter
+558662:46 androidx.legacy:legacy-support-core-utils
+558710:47 com.google.firebase:firebase-iid-interop
+558759:46 androidx.appcompat:appcompat
+558807:47 com.google.android.gms:play-services-measurement-sdk
+558856:46 androidx.collection:collection
+558904:46 javax.inject:javax.inject
+558952:46 androidx.cardview:cardview
+559000:47 com.google.android.gms:play-services-measurement-impl
+559049:46 com.google.firebase:firebase-installations
+559097:46 androidx.print:print
+559145:46 androidx.arch.core:core-runtime
+559193:46 com.squareup.retrofit2:converter-gson
+559241:50 com.google.protobuf.nano:protobuf-javanano
+559293:46 androidx.interpolator:interpolator
+559341:46 androidx.constraintlayout:constraintlayout-solver
+559389:46 com.github.nitrico.mapviewpager:mapviewpager
+559437:46 androidx.slidingpanelayout:slidingpanelayout
+559485:46 androidx.legacy:legacy-support-v4
+559533:47 com.google.android.gms:play-services-oss-licenses
+559582:46 androidx.lifecycle:lifecycle-livedata-core
+559630:46 androidx.viewpager2:viewpager2
+559678:47 com.google.firebase:firebase-analytics
+559727:46 androidx.transition:transition
+559775:42 org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client
+559819:47 com.google.firebase:firebase-iid
+559868:46 androidx.constraintlayout:constraintlayout
+559916:47 com.google.android.gms:play-services-auth-api-phone
+559965:2500 zlib
+562467:1558 RE2
+564027:3182 PCRE
+567211:1481 darts_clone
+568694:47 com.google.android.gms:play-services-maps
+568743:11358 JSpecify
+580103:46 com.github.bumptech.glide:annotations Simplified BSD License
+580151:46 com.github.bumptech.glide:annotations The Apache Software License, Version 2.0
+580199:46 androidx.fragment:fragment
+580247:46 androidx.exifinterface:exifinterface
+580295:46 androidx.dynamicanimation:dynamicanimation
+580343:46 pub.devrel:easypermissions
+580391:46 at.blogc:expandabletextview
+580439:46 androidx.lifecycle:lifecycle-livedata
+580487:47 com.google.android.gms:play-services-auth-base
+580536:46 androidx.swiperefreshlayout:swiperefreshlayout
+580584:46 androidx.viewpager:viewpager
+580632:46 com.google.firebase:firebase-abt
+580680:46 com.google.firebase:firebase-encoders-json
+580728:46 androidx.preference:preference
+580776:46 com.squareup.retrofit2:retrofit
+580824:47 com.google.android.gms:play-services-tasks
+580873:47 com.google.android.gms:play-services-measurement-base
+580922:46 androidx.lifecycle:lifecycle-viewmodel-savedstate
+580970:46 com.google.firebase:firebase-datatransport
+581018:46 com.google.android.material:material
+581066:46 com.google.firebase:firebase-components
+581114:46 androidx.customview:customview
+581162:46 androidx.recyclerview:recyclerview
+581210:46 com.google.android.datatransport:transport-runtime
+581258:46 androidx.annotation:annotation
+581306:46 me.relex:circleindicator
+581354:47 com.google.dagger:dagger
+581403:47 com.google.android.gms:play-services-auth
+581452:47 com.google.android.gms:play-services-measurement
+581501:46 com.google.firebase:firebase-database
+581549:47 com.google.firebase:firebase-auth-interop
+581598:10695 AndroidX async layout inflater.
+592295:10695 AndroidX document file library.
+602992:10693 AndroidX interpolator library.
+613687:10695 AndroidX legacy core UI libraries.
+624384:10693 AndroidX local broadcast manager library.
+635079:10695 AndroidX print library.
+645776:10695 AndroidX sliding pane layout library.
+656473:10695 AndroidX swipe refresh layout library.
+667170:10695 AndroidX versioned parcelable library.
+677867:57295 Firebase Common
+735164:11342 FlatBuffers
+746508:10695 activity
+757205:10695 concurrent_futures
+767902:10695 savedstate
+778599:46 com.google.android.datatransport:transport-backend-cct
+778647:46 androidx.annotation:annotation-experimental
 778695:46 androidx.legacy:legacy-support-core-ui
 778743:46 com.google.firebase:firebase-common
 778791:46 androidx.asynclayoutinflater:asynclayoutinflater

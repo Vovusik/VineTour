@@ -1,752 +1,752 @@
 [
     {
+        "group": "androidx.activity",
+        "version": "1.2.4",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.activity\\activity\\1.2.4\\bebd083d1486ed7f033b2dcc06e7cdefede4445f\\activity-1.2.4.aar",
+        "name": "activity"
+    },
+    {
+        "group": "com.google.android.gms",
+        "version": "17.5.0",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-basement\\17.5.0\\b560d0794478d69cfd13d1c6e1d0d30aaa4fb6b\\play-services-basement-17.5.0.aar",
+        "name": "play-services-basement"
+    },
+    {
         "group": "androidx.localbroadcastmanager",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.localbroadcastmanager\\localbroadcastmanager\\1.0.0\\2734f31c8321e83ce6b60570d14777fc33cc2ece\\localbroadcastmanager-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.localbroadcastmanager\\localbroadcastmanager\\1.0.0\\2734f31c8321e83ce6b60570d14777fc33cc2ece\\localbroadcastmanager-1.0.0.aar",
         "name": "localbroadcastmanager"
     },
     {
         "group": "com.github.bumptech.glide",
         "version": "4.12.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\gifdecoder\\4.12.0\\a00cc6741d9f7cf025dd93293c724a688c47631e\\gifdecoder-4.12.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\gifdecoder\\4.12.0\\a00cc6741d9f7cf025dd93293c724a688c47631e\\gifdecoder-4.12.0.aar",
         "name": "gifdecoder"
     },
     {
         "group": "androidx.core",
         "version": "1.5.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.core\\core\\1.5.0\\592da26c6f1263a51134546204033e0964e3c540\\core-1.5.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.core\\core\\1.5.0\\592da26c6f1263a51134546204033e0964e3c540\\core-1.5.0.aar",
         "name": "core"
     },
     {
         "group": "com.google.firebase",
         "version": "17.0.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-database-collection\\17.0.1\\9d1a599d6193a7d6ca376ff1f2108a7b95da6213\\firebase-database-collection-17.0.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-database-collection\\17.0.1\\9d1a599d6193a7d6ca376ff1f2108a7b95da6213\\firebase-database-collection-17.0.1.aar",
         "name": "firebase-database-collection"
     },
     {
         "group": "com.google.android.gms",
-        "version": "17.2.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-basement\\17.2.1\\c4d7551629e55fa8eb0e36e9d3f8f24959860d74\\play-services-basement-17.2.1.aar",
-        "name": "play-services-basement"
-    },
-    {
-        "group": "com.google.android.gms",
         "version": "17.6.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-sdk-api\\17.6.0\\e20997dbf87667b8e0e8e935d86f716e8dd0fc47\\play-services-measurement-sdk-api-17.6.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-sdk-api\\17.6.0\\e20997dbf87667b8e0e8e935d86f716e8dd0fc47\\play-services-measurement-sdk-api-17.6.0.aar",
         "name": "play-services-measurement-sdk-api"
     },
     {
         "group": "androidx.lifecycle",
         "version": "2.3.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-runtime\\2.3.1\\5786c819df8bcc1f050e9a752d2d0d85f87c4aed\\lifecycle-runtime-2.3.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-runtime\\2.3.1\\5786c819df8bcc1f050e9a752d2d0d85f87c4aed\\lifecycle-runtime-2.3.1.aar",
         "name": "lifecycle-runtime"
     },
     {
         "group": "com.google.firebase",
         "version": "20.3.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-messaging\\20.3.0\\2c1fb9110b5b2b1a655ae511450f075b41f4250c\\firebase-messaging-20.3.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-messaging\\20.3.0\\2c1fb9110b5b2b1a655ae511450f075b41f4250c\\firebase-messaging-20.3.0.aar",
         "name": "firebase-messaging"
     },
     {
         "group": "androidx.lifecycle",
         "version": "2.3.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel\\2.3.1\\9b96f5276783647e1436154c7ae393b2a4e9c2c4\\lifecycle-viewmodel-2.3.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel\\2.3.1\\9b96f5276783647e1436154c7ae393b2a4e9c2c4\\lifecycle-viewmodel-2.3.1.aar",
         "name": "lifecycle-viewmodel"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-ads-identifier\\17.0.0\\8989aabdf3480ed2b6ebae27ac75c12145d9a29b\\play-services-ads-identifier-17.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-ads-identifier\\17.0.0\\8989aabdf3480ed2b6ebae27ac75c12145d9a29b\\play-services-ads-identifier-17.0.0.aar",
         "name": "play-services-ads-identifier"
     },
     {
         "group": "androidx.arch.core",
         "version": "2.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.arch.core\\core-common\\2.1.0\\b3152fc64428c9354344bd89848ecddc09b6f07e\\core-common-2.1.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.arch.core\\core-common\\2.1.0\\b3152fc64428c9354344bd89848ecddc09b6f07e\\core-common-2.1.0.jar",
         "name": "core-common"
     },
     {
         "group": "androidx.versionedparcelable",
         "version": "1.1.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.versionedparcelable\\versionedparcelable\\1.1.1\\18e18071e7715679e0593c570217edeb5ca48b9e\\versionedparcelable-1.1.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.versionedparcelable\\versionedparcelable\\1.1.1\\18e18071e7715679e0593c570217edeb5ca48b9e\\versionedparcelable-1.1.1.aar",
         "name": "versionedparcelable"
+    },
+    {
+        "group": "androidx.appcompat",
+        "version": "1.3.1",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.appcompat\\appcompat-resources\\1.3.1\\32ad26fa0a18f5df7c7bff16aeaa1ecfef593877\\appcompat-resources-1.3.1.aar",
+        "name": "appcompat-resources"
     },
     {
         "group": "com.google.firebase",
         "version": "19.2.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-config\\19.2.0\\5f63a085e5b102b1790548575b16c5ca47590e14\\firebase-config-19.2.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-config\\19.2.0\\5f63a085e5b102b1790548575b16c5ca47590e14\\firebase-config-19.2.0.aar",
         "name": "firebase-config"
-    },
-    {
-        "group": "com.google.android.gms",
-        "version": "19.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-auth\\19.0.0\\56851b22c2086719fd8aa14759f4ccef9c0465d9\\play-services-auth-19.0.0.aar",
-        "name": "play-services-auth"
     },
     {
         "group": "androidx.media",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.media\\media\\1.0.0\\7f92bbaf670497a9a1105124122fb20cee61e58c\\media-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.media\\media\\1.0.0\\7f92bbaf670497a9a1105124122fb20cee61e58c\\media-1.0.0.aar",
         "name": "media"
     },
     {
         "group": "com.google.android.gms",
         "version": "16.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-cloud-messaging\\16.0.0\\5e3680edeca7b398edbc6fbc3047100addaedc0d\\play-services-cloud-messaging-16.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-cloud-messaging\\16.0.0\\5e3680edeca7b398edbc6fbc3047100addaedc0d\\play-services-cloud-messaging-16.0.0.aar",
         "name": "play-services-cloud-messaging"
     },
     {
         "group": "androidx.documentfile",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.documentfile\\documentfile\\1.0.0\\66104345c90cd8c2fd5ad2d3aad692b280e10c32\\documentfile-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.documentfile\\documentfile\\1.0.0\\66104345c90cd8c2fd5ad2d3aad692b280e10c32\\documentfile-1.0.0.aar",
         "name": "documentfile"
     },
     {
         "group": "com.google.firebase",
         "version": "16.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-installations-interop\\16.0.0\\cd3752eed34b68891515aa906ef03130eed5f50e\\firebase-installations-interop-16.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-installations-interop\\16.0.0\\cd3752eed34b68891515aa906ef03130eed5f50e\\firebase-installations-interop-16.0.0.aar",
         "name": "firebase-installations-interop"
     },
     {
         "group": "com.google.firebase",
         "version": "17.5.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-core\\17.5.1\\92c0ff1842b2face6a1d2f96d9cb5ec102abdbf2\\firebase-core-17.5.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-core\\17.5.1\\92c0ff1842b2face6a1d2f96d9cb5ec102abdbf2\\firebase-core-17.5.1.aar",
         "name": "firebase-core"
     },
     {
         "group": "androidx.browser",
         "version": "1.3.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.browser\\browser\\1.3.0\\407e57282abe6db9107965a729203210b9a6821b\\browser-1.3.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.browser\\browser\\1.3.0\\407e57282abe6db9107965a729203210b9a6821b\\browser-1.3.0.aar",
         "name": "browser"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.6.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-api\\17.6.0\\812b6939bccd5ddae9237d8cac354cb47dd7842e\\play-services-measurement-api-17.6.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-api\\17.6.0\\812b6939bccd5ddae9237d8cac354cb47dd7842e\\play-services-measurement-api-17.6.0.aar",
         "name": "play-services-measurement-api"
     },
     {
         "group": "com.google.android.datatransport",
         "version": "2.2.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.datatransport\\transport-api\\2.2.0\\68f412d9ae6ac1144f0bf075c8ae03d90f7779e6\\transport-api-2.2.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.datatransport\\transport-api\\2.2.0\\68f412d9ae6ac1144f0bf075c8ae03d90f7779e6\\transport-api-2.2.0.aar",
         "name": "transport-api"
     },
     {
         "group": "androidx.vectordrawable",
         "version": "1.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.vectordrawable\\vectordrawable-animated\\1.1.0\\fcda1161354501471c30a4e077af6b5c4d4eddc6\\vectordrawable-animated-1.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.vectordrawable\\vectordrawable-animated\\1.1.0\\fcda1161354501471c30a4e077af6b5c4d4eddc6\\vectordrawable-animated-1.1.0.aar",
         "name": "vectordrawable-animated"
     },
     {
         "group": "com.google.android.play",
         "version": "1.10.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.play\\core\\1.10.0\\f5b52688da95910ec70f8c6e1e05a1f032ac6385\\core-1.10.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.play\\core\\1.10.0\\f5b52688da95910ec70f8c6e1e05a1f032ac6385\\core-1.10.0.aar",
         "name": "core"
     },
     {
         "group": "com.prof.rssparser",
         "version": "3.1.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.prof.rssparser\\rssparser\\3.1.1\\adf57a44a5e7fff02f7f683ff8c9470e58fec3ea\\rssparser-3.1.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.prof.rssparser\\rssparser\\3.1.1\\adf57a44a5e7fff02f7f683ff8c9470e58fec3ea\\rssparser-3.1.1.aar",
         "name": "rssparser"
     },
     {
         "group": "com.google.android.gms",
-        "version": "17.0.2",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-tasks\\17.0.2\\24a6816a91c69ed2a428f25e4bea0f9cdb18dc8c\\play-services-tasks-17.0.2.aar",
-        "name": "play-services-tasks"
+        "version": "17.5.0",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-base\\17.5.0\\f2bf4f028588cd920630be1d6489c2ddf3374986\\play-services-base-17.5.0.aar",
+        "name": "play-services-base"
     },
     {
         "group": "jp.wasabeef",
         "version": "4.0.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\jp.wasabeef\\glide-transformations\\4.0.1\\bfe536f43540bdb8bce91962c59103fd5a9bf5d6\\glide-transformations-4.0.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\jp.wasabeef\\glide-transformations\\4.0.1\\bfe536f43540bdb8bce91962c59103fd5a9bf5d6\\glide-transformations-4.0.1.aar",
         "name": "glide-transformations"
     },
     {
         "group": "androidx.lifecycle",
         "version": "2.3.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-common\\2.3.1\\fc466261d52f4433863642fb40d12441ae274a98\\lifecycle-common-2.3.1.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-common\\2.3.1\\fc466261d52f4433863642fb40d12441ae274a98\\lifecycle-common-2.3.1.jar",
         "name": "lifecycle-common"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-stats\\17.0.0\\5ed3441a1bcdb224b0fed0cc175257ed15174755\\play-services-stats-17.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-stats\\17.0.0\\5ed3441a1bcdb224b0fed0cc175257ed15174755\\play-services-stats-17.0.0.aar",
         "name": "play-services-stats"
     },
     {
         "group": "androidx.savedstate",
         "version": "1.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.savedstate\\savedstate\\1.1.0\\8d4785f699f93e4020b185e2b7de37cb1f58753c\\savedstate-1.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.savedstate\\savedstate\\1.1.0\\8d4785f699f93e4020b185e2b7de37cb1f58753c\\savedstate-1.1.0.aar",
         "name": "savedstate"
     },
     {
         "group": "androidx.coordinatorlayout",
         "version": "1.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.coordinatorlayout\\coordinatorlayout\\1.1.0\\8eeb7baf75b9595d017642a460df5af3bb9fa4e1\\coordinatorlayout-1.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.coordinatorlayout\\coordinatorlayout\\1.1.0\\8eeb7baf75b9595d017642a460df5af3bb9fa4e1\\coordinatorlayout-1.1.0.aar",
         "name": "coordinatorlayout"
     },
     {
         "group": "com.github.bumptech.glide",
         "version": "4.12.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\glide\\4.12.0\\3f57db6cc954212739bb0d693ec48ecbc8ab73c4\\glide-4.12.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\glide\\4.12.0\\3f57db6cc954212739bb0d693ec48ecbc8ab73c4\\glide-4.12.0.aar",
         "name": "glide"
     },
     {
         "group": "com.github.bumptech.glide",
         "version": "4.12.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\disklrucache\\4.12.0\\6d44c9103551e3ff51f00ac26077c143a8fb74f9\\disklrucache-4.12.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\disklrucache\\4.12.0\\6d44c9103551e3ff51f00ac26077c143a8fb74f9\\disklrucache-4.12.0.jar",
         "name": "disklrucache"
     },
     {
         "group": "androidx.drawerlayout",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.drawerlayout\\drawerlayout\\1.0.0\\dd02c7e207136e1272b33815cc61e57676ed13a2\\drawerlayout-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.drawerlayout\\drawerlayout\\1.0.0\\dd02c7e207136e1272b33815cc61e57676ed13a2\\drawerlayout-1.0.0.aar",
         "name": "drawerlayout"
     },
     {
         "group": "androidx.vectordrawable",
         "version": "1.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.vectordrawable\\vectordrawable\\1.1.0\\eac7a364fff534035a2a6cb17770a1288315f69f\\vectordrawable-1.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.vectordrawable\\vectordrawable\\1.1.0\\eac7a364fff534035a2a6cb17770a1288315f69f\\vectordrawable-1.1.0.aar",
         "name": "vectordrawable"
     },
     {
         "group": "androidx.loader",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.loader\\loader\\1.0.0\\8af8b6cec0da85c207d03e15840e0722cbc71e70\\loader-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.loader\\loader\\1.0.0\\8af8b6cec0da85c207d03e15840e0722cbc71e70\\loader-1.0.0.aar",
         "name": "loader"
     },
     {
         "group": "androidx.cursoradapter",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.cursoradapter\\cursoradapter\\1.0.0\\74014983a86b83cbce534dec4e7aa9312f5f5d82\\cursoradapter-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.cursoradapter\\cursoradapter\\1.0.0\\74014983a86b83cbce534dec4e7aa9312f5f5d82\\cursoradapter-1.0.0.aar",
         "name": "cursoradapter"
     },
     {
         "group": "androidx.legacy",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-core-utils\\1.0.0\\9b9570042115da8629519090dfeb71df75da59fc\\legacy-support-core-utils-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-core-utils\\1.0.0\\9b9570042115da8629519090dfeb71df75da59fc\\legacy-support-core-utils-1.0.0.aar",
         "name": "legacy-support-core-utils"
     },
     {
         "group": "com.google.firebase",
         "version": "17.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-iid-interop\\17.0.0\\6f329a6291b6896601c6a3c62d80e4c9f3968ba7\\firebase-iid-interop-17.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-iid-interop\\17.0.0\\6f329a6291b6896601c6a3c62d80e4c9f3968ba7\\firebase-iid-interop-17.0.0.aar",
         "name": "firebase-iid-interop"
+    },
+    {
+        "group": "androidx.appcompat",
+        "version": "1.3.1",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.appcompat\\appcompat\\1.3.1\\b9bc6aeb85e9bd2bc7ce829960b07d47eda7a1a9\\appcompat-1.3.1.aar",
+        "name": "appcompat"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.6.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-sdk\\17.6.0\\8e5d68a822d0d32de7c8cf1d655dd8465e0e8e8c\\play-services-measurement-sdk-17.6.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-sdk\\17.6.0\\8e5d68a822d0d32de7c8cf1d655dd8465e0e8e8c\\play-services-measurement-sdk-17.6.0.aar",
         "name": "play-services-measurement-sdk"
     },
     {
         "group": "androidx.collection",
         "version": "1.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.collection\\collection\\1.1.0\\1f27220b47669781457de0d600849a5de0e89909\\collection-1.1.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.collection\\collection\\1.1.0\\1f27220b47669781457de0d600849a5de0e89909\\collection-1.1.0.jar",
         "name": "collection"
     },
     {
         "group": "javax.inject",
         "version": "1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\javax.inject\\javax.inject\\1\\6975da39a7040257bd51d21a231b76c915872d38\\javax.inject-1.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\javax.inject\\javax.inject\\1\\6975da39a7040257bd51d21a231b76c915872d38\\javax.inject-1.jar",
         "name": "javax.inject"
     },
     {
         "group": "androidx.cardview",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.cardview\\cardview\\1.0.0\\158dbc2e2bc502815821191b04446b8f663c1874\\cardview-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.cardview\\cardview\\1.0.0\\158dbc2e2bc502815821191b04446b8f663c1874\\cardview-1.0.0.aar",
         "name": "cardview"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.6.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-impl\\17.6.0\\8e2282936f65e514abca096e5bc2386b70562a89\\play-services-measurement-impl-17.6.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-impl\\17.6.0\\8e2282936f65e514abca096e5bc2386b70562a89\\play-services-measurement-impl-17.6.0.aar",
         "name": "play-services-measurement-impl"
     },
     {
         "group": "com.squareup.okio",
         "version": "1.17.2",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.okio\\okio\\1.17.2\\78c7820b205002da4d2d137f6f312bd64b3d6049\\okio-1.17.2.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.okio\\okio\\1.17.2\\78c7820b205002da4d2d137f6f312bd64b3d6049\\okio-1.17.2.jar",
         "name": "okio"
     },
     {
         "group": "com.google.firebase",
         "version": "16.3.3",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-installations\\16.3.3\\8031e9fb56c898463e8af09acc8f2d975d028e8d\\firebase-installations-16.3.3.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-installations\\16.3.3\\8031e9fb56c898463e8af09acc8f2d975d028e8d\\firebase-installations-16.3.3.aar",
         "name": "firebase-installations"
     },
     {
         "group": "androidx.print",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.print\\print\\1.0.0\\7722094652c48ebe27acc94d74a55e759e4635ff\\print-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.print\\print\\1.0.0\\7722094652c48ebe27acc94d74a55e759e4635ff\\print-1.0.0.aar",
         "name": "print"
     },
     {
         "group": "androidx.arch.core",
         "version": "2.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.arch.core\\core-runtime\\2.1.0\\2df0e03029caae7863ccb4825addaadc8ab6780c\\core-runtime-2.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.arch.core\\core-runtime\\2.1.0\\2df0e03029caae7863ccb4825addaadc8ab6780c\\core-runtime-2.1.0.aar",
         "name": "core-runtime"
     },
     {
         "group": "com.squareup.okhttp",
         "version": "2.7.5",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.okhttp\\okhttp\\2.7.5\\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\\okhttp-2.7.5.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.okhttp\\okhttp\\2.7.5\\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\\okhttp-2.7.5.jar",
         "name": "okhttp"
     },
     {
         "group": "com.squareup.retrofit2",
         "version": "2.9.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.retrofit2\\converter-gson\\2.9.0\\fc93484fc67ab52b1e0ccbdaa3922d8a6678e097\\converter-gson-2.9.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.retrofit2\\converter-gson\\2.9.0\\fc93484fc67ab52b1e0ccbdaa3922d8a6678e097\\converter-gson-2.9.0.jar",
         "name": "converter-gson"
     },
     {
         "group": "com.google.protobuf.nano",
         "version": "3.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.protobuf.nano\\protobuf-javanano\\3.1.0\\5110f05deac8f15244897b3f70e9ce413468771d\\protobuf-javanano-3.1.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.protobuf.nano\\protobuf-javanano\\3.1.0\\5110f05deac8f15244897b3f70e9ce413468771d\\protobuf-javanano-3.1.0.jar",
         "name": "protobuf-javanano"
     },
     {
         "group": "androidx.interpolator",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.interpolator\\interpolator\\1.0.0\\8a01fa254a23b9388571eb6334b03707c7d122d7\\interpolator-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.interpolator\\interpolator\\1.0.0\\8a01fa254a23b9388571eb6334b03707c7d122d7\\interpolator-1.0.0.aar",
         "name": "interpolator"
     },
     {
         "group": "androidx.constraintlayout",
         "version": "2.0.4",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.constraintlayout\\constraintlayout-solver\\2.0.4\\1f001d7db280a89a6c26b26a66eb064bb6d5efeb\\constraintlayout-solver-2.0.4.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.constraintlayout\\constraintlayout-solver\\2.0.4\\1f001d7db280a89a6c26b26a66eb064bb6d5efeb\\constraintlayout-solver-2.0.4.jar",
         "name": "constraintlayout-solver"
     },
     {
         "group": "com.github.nitrico.mapviewpager",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.github.nitrico.mapviewpager\\mapviewpager\\1.0.0\\72978b2eb8afeb82e0e082912e767de89f8f5586\\mapviewpager-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.github.nitrico.mapviewpager\\mapviewpager\\1.0.0\\72978b2eb8afeb82e0e082912e767de89f8f5586\\mapviewpager-1.0.0.aar",
         "name": "mapviewpager"
     },
     {
         "group": "androidx.slidingpanelayout",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.slidingpanelayout\\slidingpanelayout\\1.0.0\\37eba9ccbf09b75cc4aa78a5e182d5b8ba79ad6a\\slidingpanelayout-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.slidingpanelayout\\slidingpanelayout\\1.0.0\\37eba9ccbf09b75cc4aa78a5e182d5b8ba79ad6a\\slidingpanelayout-1.0.0.aar",
         "name": "slidingpanelayout"
     },
     {
         "group": "androidx.legacy",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-v4\\1.0.0\\3e1271b351e1209661b9fd769cd6681a31678fe\\legacy-support-v4-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-v4\\1.0.0\\3e1271b351e1209661b9fd769cd6681a31678fe\\legacy-support-v4-1.0.0.aar",
         "name": "legacy-support-v4"
     },
     {
         "group": "com.google.code.gson",
         "version": "2.8.5",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.gson\\gson\\2.8.5\\f645ed69d595b24d4cf8b3fbb64cc505bede8829\\gson-2.8.5.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.code.gson\\gson\\2.8.5\\f645ed69d595b24d4cf8b3fbb64cc505bede8829\\gson-2.8.5.jar",
         "name": "gson"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-oss-licenses\\17.0.0\\4f7cb3415c922bd9d36563fde52cb0344d8dc68\\play-services-oss-licenses-17.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-oss-licenses\\17.0.0\\4f7cb3415c922bd9d36563fde52cb0344d8dc68\\play-services-oss-licenses-17.0.0.aar",
         "name": "play-services-oss-licenses"
-    },
-    {
-        "group": "com.google.android.material",
-        "version": "1.3.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.material\\material\\1.3.0\\eb5f05b4af91bb9dac4a1abd1143ee9341f9145f\\material-1.3.0.aar",
-        "name": "material"
     },
     {
         "group": "androidx.lifecycle",
         "version": "2.3.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-livedata-core\\2.3.1\\d6d9279495dc234dc37cecf461b3b626825086ef\\lifecycle-livedata-core-2.3.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-livedata-core\\2.3.1\\d6d9279495dc234dc37cecf461b3b626825086ef\\lifecycle-livedata-core-2.3.1.aar",
         "name": "lifecycle-livedata-core"
     },
     {
         "group": "androidx.viewpager2",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.viewpager2\\viewpager2\\1.0.0\\91c378a09ddff66e1bb73e90edeac53487d2832b\\viewpager2-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.viewpager2\\viewpager2\\1.0.0\\91c378a09ddff66e1bb73e90edeac53487d2832b\\viewpager2-1.0.0.aar",
         "name": "viewpager2"
-    },
-    {
-        "group": "androidx.fragment",
-        "version": "1.3.4",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.fragment\\fragment\\1.3.4\\65b65aa70b61fd0fe3c57b7f603511d8231d85f6\\fragment-1.3.4.aar",
-        "name": "fragment"
     },
     {
         "group": "com.google.firebase",
         "version": "17.6.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-analytics\\17.6.0\\442976dd09c1c96c636cea1c5d43942ae1bd0f29\\firebase-analytics-17.6.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-analytics\\17.6.0\\442976dd09c1c96c636cea1c5d43942ae1bd0f29\\firebase-analytics-17.6.0.aar",
         "name": "firebase-analytics"
     },
     {
         "group": "androidx.transition",
         "version": "1.2.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.transition\\transition\\1.2.0\\28003577e8b32f5417bfe899bbdc7a333dc81c9f\\transition-1.2.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.transition\\transition\\1.2.0\\28003577e8b32f5417bfe899bbdc7a333dc81c9f\\transition-1.2.0.aar",
         "name": "transition"
     },
     {
         "group": "org.jbundle.util.osgi.wrapped",
         "version": "4.1.2",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\org.jbundle.util.osgi.wrapped\\org.jbundle.util.osgi.wrapped.org.apache.http.client\\4.1.2\\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\org.jbundle.util.osgi.wrapped\\org.jbundle.util.osgi.wrapped.org.apache.http.client\\4.1.2\\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar",
         "name": "org.jbundle.util.osgi.wrapped.org.apache.http.client"
-    },
-    {
-        "group": "androidx.appcompat",
-        "version": "1.3.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.appcompat\\appcompat\\1.3.0\\beebea39b2ef5604ee50838ab1b456de9d133140\\appcompat-1.3.0.aar",
-        "name": "appcompat"
-    },
-    {
-        "group": "androidx.activity",
-        "version": "1.2.3",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.activity\\activity\\1.2.3\\31b424ed12f25c6a47fb74280054f128064c94dc\\activity-1.2.3.aar",
-        "name": "activity"
     },
     {
         "group": "com.google.firebase",
         "version": "20.3.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-iid\\20.3.0\\cf1a87355bd72792a44974e9b8e1cd9713fa1277\\firebase-iid-20.3.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-iid\\20.3.0\\cf1a87355bd72792a44974e9b8e1cd9713fa1277\\firebase-iid-20.3.0.aar",
         "name": "firebase-iid"
     },
     {
         "group": "androidx.constraintlayout",
         "version": "2.0.4",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.constraintlayout\\constraintlayout\\2.0.4\\fc11f9c864670e5e2d1b02d2092c8811804f3ec7\\constraintlayout-2.0.4.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.constraintlayout\\constraintlayout\\2.0.4\\fc11f9c864670e5e2d1b02d2092c8811804f3ec7\\constraintlayout-2.0.4.aar",
         "name": "constraintlayout"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-auth-api-phone\\17.0.0\\4abc3c5e0095eb657d2d04fe5fb507a8b183c658\\play-services-auth-api-phone-17.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-auth-api-phone\\17.0.0\\4abc3c5e0095eb657d2d04fe5fb507a8b183c658\\play-services-auth-api-phone-17.0.0.aar",
         "name": "play-services-auth-api-phone"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.0.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-maps\\17.0.1\\7d5a15369ebad530cba10ea2f8bf4d832860820\\play-services-maps-17.0.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-maps\\17.0.1\\7d5a15369ebad530cba10ea2f8bf4d832860820\\play-services-maps-17.0.1.aar",
         "name": "play-services-maps"
     },
     {
         "group": "com.github.bumptech.glide",
         "version": "4.12.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\annotations\\4.12.0\\298d793db124809d74ad9a90de5eddc408898c84\\annotations-4.12.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.github.bumptech.glide\\annotations\\4.12.0\\298d793db124809d74ad9a90de5eddc408898c84\\annotations-4.12.0.jar",
         "name": "annotations"
+    },
+    {
+        "group": "androidx.fragment",
+        "version": "1.3.6",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.fragment\\fragment\\1.3.6\\6391fc504e7c0f24051ac8b9da3f0ba4d1241dff\\fragment-1.3.6.aar",
+        "name": "fragment"
     },
     {
         "group": "androidx.exifinterface",
         "version": "1.2.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.exifinterface\\exifinterface\\1.2.0\\e8a2f661f33bbfa8e9d226aa5dacae90aedf2fc9\\exifinterface-1.2.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.exifinterface\\exifinterface\\1.2.0\\e8a2f661f33bbfa8e9d226aa5dacae90aedf2fc9\\exifinterface-1.2.0.aar",
         "name": "exifinterface"
     },
     {
         "group": "androidx.dynamicanimation",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.dynamicanimation\\dynamicanimation\\1.0.0\\e980497a58fb319d471f3bb78d066b926a08ba8e\\dynamicanimation-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.dynamicanimation\\dynamicanimation\\1.0.0\\e980497a58fb319d471f3bb78d066b926a08ba8e\\dynamicanimation-1.0.0.aar",
         "name": "dynamicanimation"
     },
     {
         "group": "pub.devrel",
         "version": "3.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\pub.devrel\\easypermissions\\3.0.0\\f832fce509d57a146ef4d5baeb306cb4f97ce625\\easypermissions-3.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\pub.devrel\\easypermissions\\3.0.0\\f832fce509d57a146ef4d5baeb306cb4f97ce625\\easypermissions-3.0.0.aar",
         "name": "easypermissions"
     },
     {
         "group": "at.blogc",
         "version": "1.0.5",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\at.blogc\\expandabletextview\\1.0.5\\d1522c73947b73f41a4dcea4434a8b9c89f3492c\\expandabletextview-1.0.5.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\at.blogc\\expandabletextview\\1.0.5\\d1522c73947b73f41a4dcea4434a8b9c89f3492c\\expandabletextview-1.0.5.aar",
         "name": "expandabletextview"
     },
     {
         "group": "com.google.vr",
         "version": "1.180.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.vr\\sdk-commonwidget\\1.180.0\\af1e72edfc816a731e9e9992f21d454c92721a83\\sdk-commonwidget-1.180.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.vr\\sdk-commonwidget\\1.180.0\\af1e72edfc816a731e9e9992f21d454c92721a83\\sdk-commonwidget-1.180.0.aar",
         "name": "sdk-commonwidget"
     },
     {
         "group": "androidx.lifecycle",
         "version": "2.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-livedata\\2.0.0\\c17007cd0b21d6401910b0becdd16c438c68a9af\\lifecycle-livedata-2.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-livedata\\2.0.0\\c17007cd0b21d6401910b0becdd16c438c68a9af\\lifecycle-livedata-2.0.0.aar",
         "name": "lifecycle-livedata"
     },
     {
         "group": "com.google.android.gms",
         "version": "17.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-auth-base\\17.0.0\\8f69f3634fdd1d2510edbec33de4c52f6472ed66\\play-services-auth-base-17.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-auth-base\\17.0.0\\8f69f3634fdd1d2510edbec33de4c52f6472ed66\\play-services-auth-base-17.0.0.aar",
         "name": "play-services-auth-base"
     },
     {
         "group": "androidx.swiperefreshlayout",
         "version": "1.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.swiperefreshlayout\\swiperefreshlayout\\1.1.0\\2aeac64056fe6cc0420afad0b699a7f9257b8ebe\\swiperefreshlayout-1.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.swiperefreshlayout\\swiperefreshlayout\\1.1.0\\2aeac64056fe6cc0420afad0b699a7f9257b8ebe\\swiperefreshlayout-1.1.0.aar",
         "name": "swiperefreshlayout"
     },
     {
         "group": "androidx.viewpager",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.viewpager\\viewpager\\1.0.0\\1f90e13820f96c2fb868f9674079a551678d68b2\\viewpager-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.viewpager\\viewpager\\1.0.0\\1f90e13820f96c2fb868f9674079a551678d68b2\\viewpager-1.0.0.aar",
         "name": "viewpager"
     },
     {
         "group": "com.google.firebase",
         "version": "19.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-abt\\19.1.0\\ec34a79dde076261b06da61224ce93ce38d746eb\\firebase-abt-19.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-abt\\19.1.0\\ec34a79dde076261b06da61224ce93ce38d746eb\\firebase-abt-19.1.0.aar",
         "name": "firebase-abt"
     },
     {
         "group": "com.google.firebase",
         "version": "16.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-encoders-json\\16.0.0\\b4666fafaca95a611740b5a6721f1c8e691391b8\\firebase-encoders-json-16.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-encoders-json\\16.0.0\\b4666fafaca95a611740b5a6721f1c8e691391b8\\firebase-encoders-json-16.0.0.aar",
         "name": "firebase-encoders-json"
     },
     {
         "group": "androidx.preference",
         "version": "1.1.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.preference\\preference\\1.1.1\\5dd0daf3840a31bad54bd25a69fffdce9b542a8a\\preference-1.1.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.preference\\preference\\1.1.1\\5dd0daf3840a31bad54bd25a69fffdce9b542a8a\\preference-1.1.1.aar",
         "name": "preference"
-    },
-    {
-        "group": "com.google.android.gms",
-        "version": "17.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-base\\17.1.0\\d4e438d5d2d7d2d62e540db59f27f7f444bcb895\\play-services-base-17.1.0.aar",
-        "name": "play-services-base"
     },
     {
         "group": "com.squareup.retrofit2",
         "version": "2.9.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.retrofit2\\retrofit\\2.9.0\\d8fdfbd5da952141a665a403348b74538efc05ff\\retrofit-2.9.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.retrofit2\\retrofit\\2.9.0\\d8fdfbd5da952141a665a403348b74538efc05ff\\retrofit-2.9.0.jar",
         "name": "retrofit"
     },
     {
         "group": "com.google.android.gms",
+        "version": "17.2.0",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-tasks\\17.2.0\\487a8709f5350926228707589c0a6cb65e9a6b88\\play-services-tasks-17.2.0.aar",
+        "name": "play-services-tasks"
+    },
+    {
+        "group": "com.google.android.gms",
         "version": "17.6.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-base\\17.6.0\\e29e9e1a0670f4ae74ea243859b499a908068665\\play-services-measurement-base-17.6.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement-base\\17.6.0\\e29e9e1a0670f4ae74ea243859b499a908068665\\play-services-measurement-base-17.6.0.aar",
         "name": "play-services-measurement-base"
     },
     {
         "group": "com.google.guava",
         "version": "1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\listenablefuture\\1.0\\c949a840a6acbc5268d088e47b04177bf90b3cad\\listenablefuture-1.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.guava\\listenablefuture\\1.0\\c949a840a6acbc5268d088e47b04177bf90b3cad\\listenablefuture-1.0.jar",
         "name": "listenablefuture"
     },
     {
         "group": "androidx.lifecycle",
         "version": "2.3.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel-savedstate\\2.3.1\\ef1df1036fc803ab3eaf0c298ee256e0b9fdad01\\lifecycle-viewmodel-savedstate-2.3.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel-savedstate\\2.3.1\\ef1df1036fc803ab3eaf0c298ee256e0b9fdad01\\lifecycle-viewmodel-savedstate-2.3.1.aar",
         "name": "lifecycle-viewmodel-savedstate"
     },
     {
         "group": "com.squareup.okhttp3",
         "version": "3.14.9",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.okhttp3\\okhttp\\3.14.9\\3e6d101343c7ea687cd593e4990f73b25c878383\\okhttp-3.14.9.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup.okhttp3\\okhttp\\3.14.9\\3e6d101343c7ea687cd593e4990f73b25c878383\\okhttp-3.14.9.jar",
         "name": "okhttp"
     },
     {
         "group": "com.google.firebase",
         "version": "17.0.3",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-datatransport\\17.0.3\\9602ea3997c9c50743120572cb9ea16a52a0be09\\firebase-datatransport-17.0.3.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-datatransport\\17.0.3\\9602ea3997c9c50743120572cb9ea16a52a0be09\\firebase-datatransport-17.0.3.aar",
         "name": "firebase-datatransport"
+    },
+    {
+        "group": "com.google.android.material",
+        "version": "1.4.0",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.material\\material\\1.4.0\\ac02d577c058f1ae81f85c810fe3ca08ef4f449a\\material-1.4.0.aar",
+        "name": "material"
     },
     {
         "group": "com.google.firebase",
         "version": "16.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-components\\16.0.0\\211f1ae9e02d87943a2db8a0b80a9557d4870d29\\firebase-components-16.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-components\\16.0.0\\211f1ae9e02d87943a2db8a0b80a9557d4870d29\\firebase-components-16.0.0.aar",
         "name": "firebase-components"
     },
     {
         "group": "androidx.customview",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.customview\\customview\\1.0.0\\30f5ff6075d112f8076e733b24410e68159735b6\\customview-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.customview\\customview\\1.0.0\\30f5ff6075d112f8076e733b24410e68159735b6\\customview-1.0.0.aar",
         "name": "customview"
     },
     {
         "group": "androidx.recyclerview",
         "version": "1.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.recyclerview\\recyclerview\\1.1.0\\8b4f97752ddcbc712af46d208aebd46585cde63b\\recyclerview-1.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.recyclerview\\recyclerview\\1.1.0\\8b4f97752ddcbc712af46d208aebd46585cde63b\\recyclerview-1.1.0.aar",
         "name": "recyclerview"
     },
     {
         "group": "com.google.android.datatransport",
         "version": "2.2.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.datatransport\\transport-runtime\\2.2.0\\6df7b1bd6eeebfa2498a4e78e109935d3abed5a2\\transport-runtime-2.2.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.datatransport\\transport-runtime\\2.2.0\\6df7b1bd6eeebfa2498a4e78e109935d3abed5a2\\transport-runtime-2.2.0.aar",
         "name": "transport-runtime"
     },
     {
         "group": "androidx.annotation",
         "version": "1.2.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.annotation\\annotation\\1.2.0\\57136ff68ee784c6e19db34ed4a175338fadfde1\\annotation-1.2.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.annotation\\annotation\\1.2.0\\57136ff68ee784c6e19db34ed4a175338fadfde1\\annotation-1.2.0.jar",
         "name": "annotation"
     },
     {
         "group": "com.google.protobuf",
         "version": "3.11.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.protobuf\\protobuf-javalite\\3.11.0\\7d41add57e38934167964a9e1b11b55652a995b9\\protobuf-javalite-3.11.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.protobuf\\protobuf-javalite\\3.11.0\\7d41add57e38934167964a9e1b11b55652a995b9\\protobuf-javalite-3.11.0.jar",
         "name": "protobuf-javalite"
     },
     {
         "group": "me.relex",
         "version": "2.1.4",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\me.relex\\circleindicator\\2.1.4\\17f85585c97b751e881250ee9f933005ddd0566d\\circleindicator-2.1.4.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\me.relex\\circleindicator\\2.1.4\\17f85585c97b751e881250ee9f933005ddd0566d\\circleindicator-2.1.4.aar",
         "name": "circleindicator"
     },
     {
         "group": "com.google.dagger",
         "version": "2.24",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.dagger\\dagger\\2.24\\97f35169621dd6a30d5958e8326e30f76ebe2e62\\dagger-2.24.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.dagger\\dagger\\2.24\\97f35169621dd6a30d5958e8326e30f76ebe2e62\\dagger-2.24.jar",
         "name": "dagger"
     },
     {
         "group": "com.google.android.gms",
+        "version": "19.2.0",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-auth\\19.2.0\\b4a0d9caeb0f4c5a3262d1d3c87f95cb518c4d3f\\play-services-auth-19.2.0.aar",
+        "name": "play-services-auth"
+    },
+    {
+        "group": "com.google.android.gms",
         "version": "17.6.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement\\17.6.0\\9c23399bc47dde2c8c97a7ee81be4442fd480d61\\play-services-measurement-17.6.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-measurement\\17.6.0\\9c23399bc47dde2c8c97a7ee81be4442fd480d61\\play-services-measurement-17.6.0.aar",
         "name": "play-services-measurement"
     },
     {
         "group": "com.google.firebase",
         "version": "19.5.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-database\\19.5.0\\22680fa420af25aa00f38dd6eff5ce2dcc007366\\firebase-database-19.5.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-database\\19.5.0\\22680fa420af25aa00f38dd6eff5ce2dcc007366\\firebase-database-19.5.0.aar",
         "name": "firebase-database"
     },
     {
         "group": "com.google.vr",
         "version": "1.180.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.vr\\sdk-panowidget\\1.180.0\\44660eb57465b2b1a4e73d9a941a07ffb3cf7095\\sdk-panowidget-1.180.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.vr\\sdk-panowidget\\1.180.0\\44660eb57465b2b1a4e73d9a941a07ffb3cf7095\\sdk-panowidget-1.180.0.aar",
         "name": "sdk-panowidget"
     },
     {
         "group": "com.google.firebase",
         "version": "18.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-auth-interop\\18.0.0\\5fe8af802ad42d019f9829f31c7be1bf4062eaeb\\firebase-auth-interop-18.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-auth-interop\\18.0.0\\5fe8af802ad42d019f9829f31c7be1bf4062eaeb\\firebase-auth-interop-18.0.0.aar",
         "name": "firebase-auth-interop"
     },
     {
         "group": "com.google.android.datatransport",
         "version": "2.2.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.datatransport\\transport-backend-cct\\2.2.0\\5e14ea176bb220416c03a4cca9bfdf1b0120362d\\transport-backend-cct-2.2.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.android.datatransport\\transport-backend-cct\\2.2.0\\5e14ea176bb220416c03a4cca9bfdf1b0120362d\\transport-backend-cct-2.2.0.aar",
         "name": "transport-backend-cct"
     },
     {
         "group": "androidx.annotation",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.annotation\\annotation-experimental\\1.0.0\\fe9ba8247a591ebf8e16f0cf80af7a2045c981e0\\annotation-experimental-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.annotation\\annotation-experimental\\1.0.0\\fe9ba8247a591ebf8e16f0cf80af7a2045c981e0\\annotation-experimental-1.0.0.aar",
         "name": "annotation-experimental"
-    },
-    {
-        "group": "androidx.appcompat",
-        "version": "1.3.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.appcompat\\appcompat-resources\\1.3.0\\fd7a8a9933b70c5e1da5243e35682058bc355eb1\\appcompat-resources-1.3.0.aar",
-        "name": "appcompat-resources"
     },
     {
         "group": "androidx.legacy",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-core-ui\\1.0.0\\61a264f996046e059f889914050fae1e75d3b702\\legacy-support-core-ui-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-core-ui\\1.0.0\\61a264f996046e059f889914050fae1e75d3b702\\legacy-support-core-ui-1.0.0.aar",
         "name": "legacy-support-core-ui"
     },
     {
         "group": "com.google.firebase",
         "version": "19.3.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-common\\19.3.1\\1504655fdb8c1bb47d23aa756c983fc6c4e5e18f\\firebase-common-19.3.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-common\\19.3.1\\1504655fdb8c1bb47d23aa756c983fc6c4e5e18f\\firebase-common-19.3.1.aar",
         "name": "firebase-common"
     },
     {
         "group": "com.google.vr",
         "version": "1.180.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.vr\\sdk-common\\1.180.0\\dc8116163db9d1c48ca4cbdec2f82372529c2ece\\sdk-common-1.180.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.vr\\sdk-common\\1.180.0\\dc8116163db9d1c48ca4cbdec2f82372529c2ece\\sdk-common-1.180.0.aar",
         "name": "sdk-common"
     },
     {
         "group": "androidx.asynclayoutinflater",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.asynclayoutinflater\\asynclayoutinflater\\1.0.0\\5ffa788d19a6863799f25cb50d4fdfb0ec649037\\asynclayoutinflater-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.asynclayoutinflater\\asynclayoutinflater\\1.0.0\\5ffa788d19a6863799f25cb50d4fdfb0ec649037\\asynclayoutinflater-1.0.0.aar",
         "name": "asynclayoutinflater"
     },
     {
         "group": "com.google.firebase",
         "version": "18.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-measurement-connector\\18.0.0\\305f4d128b2bba976f57b11d6e1859e3073b4c2d\\firebase-measurement-connector-18.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-measurement-connector\\18.0.0\\305f4d128b2bba976f57b11d6e1859e3073b4c2d\\firebase-measurement-connector-18.0.0.aar",
         "name": "firebase-measurement-connector"
     },
     {
         "group": "com.r0adkll",
         "version": "2.1.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.r0adkll\\slidableactivity\\2.1.0\\4029829834d5e21690513f5bcaef94f5400abe14\\slidableactivity-2.1.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\com.r0adkll\\slidableactivity\\2.1.0\\4029829834d5e21690513f5bcaef94f5400abe14\\slidableactivity-2.1.0.aar",
         "name": "slidableactivity"
     },
     {
         "group": "androidx.room",
         "version": "2.2.5",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.room\\room-ktx\\2.2.5\\a647f5354b2c7ee2005bc7dde62166c63b72296c\\room-ktx-2.2.5.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.room\\room-ktx\\2.2.5\\a647f5354b2c7ee2005bc7dde62166c63b72296c\\room-ktx-2.2.5.aar",
         "name": "room-ktx"
     },
     {
         "group": "org.jetbrains.kotlin",
         "version": "1.4.10",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-jdk7\\1.4.10\\30e46450b0bb3dbf43898d2f461be4a942784780\\kotlin-stdlib-jdk7-1.4.10.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-jdk7\\1.4.10\\30e46450b0bb3dbf43898d2f461be4a942784780\\kotlin-stdlib-jdk7-1.4.10.jar",
         "name": "kotlin-stdlib-jdk7"
     },
     {
         "group": "org.jetbrains.kotlin",
         "version": "1.4.10",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.4.10\\6229be3465805c99db1142ad75e6c6ddeac0b04c\\kotlin-stdlib-common-1.4.10.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.4.10\\6229be3465805c99db1142ad75e6c6ddeac0b04c\\kotlin-stdlib-common-1.4.10.jar",
         "name": "kotlin-stdlib-common"
     },
     {
         "group": "androidx.tracing",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.tracing\\tracing\\1.0.0\\69cef34711dffbc517e7a0a419ec4a98f84f496a\\tracing-1.0.0.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.tracing\\tracing\\1.0.0\\69cef34711dffbc517e7a0a419ec4a98f84f496a\\tracing-1.0.0.aar",
         "name": "tracing"
     },
     {
         "group": "androidx.room",
         "version": "2.2.5",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.room\\room-common\\2.2.5\\f5e3b73a0c2ab5e276e26868e4ce3542baede207\\room-common-2.2.5.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.room\\room-common\\2.2.5\\f5e3b73a0c2ab5e276e26868e4ce3542baede207\\room-common-2.2.5.jar",
         "name": "room-common"
     },
     {
         "group": "org.jetbrains.kotlinx",
         "version": "1.3.9",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-android\\1.3.9\\df17db5e329363c4e9cc7bf5b661ce3723a3e460\\kotlinx-coroutines-android-1.3.9.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-android\\1.3.9\\df17db5e329363c4e9cc7bf5b661ce3723a3e460\\kotlinx-coroutines-android-1.3.9.jar",
         "name": "kotlinx-coroutines-android"
     },
     {
         "group": "org.jetbrains",
         "version": "13.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\annotations\\13.0\\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\\annotations-13.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\annotations\\13.0\\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\\annotations-13.0.jar",
         "name": "annotations"
     },
     {
         "group": "androidx.concurrent",
         "version": "1.0.0",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.concurrent\\concurrent-futures\\1.0.0\\c1e77e3ee6f4643b77496a1ddf7a2eef1aefdaa1\\concurrent-futures-1.0.0.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.concurrent\\concurrent-futures\\1.0.0\\c1e77e3ee6f4643b77496a1ddf7a2eef1aefdaa1\\concurrent-futures-1.0.0.jar",
         "name": "concurrent-futures"
     },
     {
         "group": "androidx.sqlite",
         "version": "2.0.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.sqlite\\sqlite\\2.0.1\\f6eecc9db98b1888fd97d1cf7f83fda41ba28148\\sqlite-2.0.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.sqlite\\sqlite\\2.0.1\\f6eecc9db98b1888fd97d1cf7f83fda41ba28148\\sqlite-2.0.1.aar",
         "name": "sqlite"
     },
     {
         "group": "androidx.room",
         "version": "2.2.5",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.room\\room-runtime\\2.2.5\\b10f919e92246c538afd0d27ea8ef52c966f404c\\room-runtime-2.2.5.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.room\\room-runtime\\2.2.5\\b10f919e92246c538afd0d27ea8ef52c966f404c\\room-runtime-2.2.5.aar",
         "name": "room-runtime"
     },
     {
         "group": "androidx.sqlite",
         "version": "2.0.1",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\androidx.sqlite\\sqlite-framework\\2.0.1\\86a70973f9705d1bca5e947ae80d361136ba0a3a\\sqlite-framework-2.0.1.aar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\androidx.sqlite\\sqlite-framework\\2.0.1\\86a70973f9705d1bca5e947ae80d361136ba0a3a\\sqlite-framework-2.0.1.aar",
         "name": "sqlite-framework"
     },
     {
         "group": "org.jetbrains.kotlinx",
         "version": "1.3.9",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-jvm\\1.3.9\\4be434f5e86c1998a273e7f19a7286440894f0b0\\kotlinx-coroutines-core-jvm-1.3.9.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-jvm\\1.3.9\\4be434f5e86c1998a273e7f19a7286440894f0b0\\kotlinx-coroutines-core-jvm-1.3.9.jar",
         "name": "kotlinx-coroutines-core-jvm"
     },
     {
         "group": "org.jetbrains.kotlin",
         "version": "1.4.10",
-        "fileLocation": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib\\1.4.10\\ea29e063d2bbe695be13e9d044dcfb0c7add398e\\kotlin-stdlib-1.4.10.jar",
+        "fileLocation": "C:\\Users\\user\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib\\1.4.10\\ea29e063d2bbe695be13e9d044dcfb0c7add398e\\kotlin-stdlib-1.4.10.jar",
         "name": "kotlin-stdlib"
     }
 ]
