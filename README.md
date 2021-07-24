@@ -18,6 +18,8 @@
 
 ### Розділ <strong>Винарня</strong>
 
+<img src="https://github.com/Vovusik/WineTour/blob/master/app/src/main/res/assets/winery.gif" height="500" >
+
 ### Розділ <strong>Фестиваль</strong>
 
 <img src="https://github.com/Vovusik/WineTour/blob/master/app/src/main/res/assets/festival.gif" height="500" >
