@@ -10,7 +10,7 @@
 9        android:targetSdkVersion="30" />
 9-->D:\Users\User\AndroidStudioProjects\VineTour\app\src\main\AndroidManifest.xml
 10
-11    <!-- Для роботи YouToobe -->
+11    <!-- Для належної роботи YouTube -->
 12    <queries>
 12-->D:\Users\User\AndroidStudioProjects\VineTour\app\src\main\AndroidManifest.xml:7:5-11:15
 13        <intent>

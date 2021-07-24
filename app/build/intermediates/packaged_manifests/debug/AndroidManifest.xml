@@ -8,7 +8,7 @@
         android:minSdkVersion="21"
         android:targetSdkVersion="30" />
 
-    <!-- Для роботи YouToobe -->
+    <!-- Для належної роботи YouTube -->
     <queries>
         <intent>
             <action android:name="com.google.android.youtube.api.service.START" />
