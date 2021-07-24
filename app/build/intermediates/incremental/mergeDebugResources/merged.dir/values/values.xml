@@ -1310,7 +1310,7 @@
     <string name="google_app_id" translatable="false">1:114131921488:android:238aeca43e35f97a243f55</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAODKSadvd08sT0SpT_YlVfb78ZH-mCI30</string>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-AIzaSyC4wYPoJ_qxtlxT7G9zBY_cWn_tSSBBnJQ
+AIzaSyDQnfQADO8We6HmcZMwB2HvV8S4_cFRL08
     </string>
     <string name="google_storage_bucket" translatable="false">wine-tour-275108.appspot.com</string>
     <string description="Google VR component name used for enabling VR mode" name="gvr_vr_mode_component" translatable="false">com.google.vr.vrcore/com.google.vr.vrcore.common.VrCoreListenerService</string>
